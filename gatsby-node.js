@@ -41,7 +41,7 @@ console.log(responseData)
 
 
      responseData?.records?.forEach((image) => {
-        console.log("data: " + image),
+        console.log("data: " , image),
         createNode({
         ...image,
         id: createNodeId(image.id), //[ pass a unique identifier here: [movie.id] for example

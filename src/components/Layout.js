@@ -27,10 +27,10 @@ return (
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/">All Teams</Link>
+          <Link to="/images-page/">Gallery</Link>
         </li>
         <li>
-          <Link to="/">Injury Report</Link>
+          <Link to="/contact/">Contact Us</Link>
         </li>
       </ul>
     </nav>
