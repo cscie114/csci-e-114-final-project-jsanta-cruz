@@ -4,17 +4,18 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Slider from "react-slick"
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import  {objectContain, objectScaleDown, imageBG, slickArrow, slickPrev} from "./slideshow.module.css"
 
 const settings = {
   autoPlay: true,
   centerMode: true,
   centerPadding: '20px',
   arrows: true,
-  dots: true,
+  dots: false,
   infinite: true,
   speed: 500,
   slidesToShow: 4,
-  slidesToScroll: 10,
+  slidesToScroll: 1,
   responsive: [
       {
         breakpoint: 1024,
@@ -22,7 +23,7 @@ const settings = {
           slidesToShow: 3,
           slidesToScroll: 3,
           infinite: true,
-          dots: true
+          dots: false
         }
       },
       {
@@ -47,28 +48,58 @@ const settings = {
     ]
 };
 
-const SliderCarousel = ({ images }) => {
-
-    return (
-<div>
-<Slider {...settings}>
-        {images.map((img) => {
+const SliderCarousel = ({ object }) => {
+  return (
+    <div className={imageBG}>
+      <Slider {...settings}>
+        {object.map((obj, i) => {
           return (
-            <div key={img.id} >
-              <img
-                loading="lazy"
-                src={img?.baseimageurl}
-                width={200}
-                alt={img?.alttext}
-              />
-              <p>{img?.caption}</p>
-              <p>{img?.alttext}</p>
+            <div key={i} >
+               <img loading="lazy"
+                    className={objectContain}
+                    src={obj?.primaryimageurl}
+                    width={200} height={200}
+                    alt=""
+                  />
+              {/* {obj?.images?.map((img) => {
+                return (
+                  <img loading="lazy"
+                   className={objectContain}
+                    src={img?.baseimageurl}
+                    width={200} height={200}
+                    alt=""
+                  />
+                );
+              })} */}
             </div>
           );
         })}
       </Slider>
     </div>
-    )
+  );
+
+//     return (
+// <div>
+// <Slider {...settings}>
+//         {object.map((obj, i) => {
+//           return (
+//             <div key={i} >
+//               {/* {obj?.images?.map((img) => {
+//                 return ( */}
+//               <img
+//                 loading="lazy"
+//                 src={obj?.primaryimageurl}
+//                 width={200}
+//                 alt=""
+//               />
+//           {/* ); })}  */}
+
+//             </div>
+//           );
+//         })}
+//       </Slider>
+//     </div>
+//     )
 };
 
 export default SliderCarousel

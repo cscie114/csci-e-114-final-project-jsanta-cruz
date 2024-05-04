@@ -9,14 +9,15 @@ exports.sourceNodes = async ({
     createNodeId,
   }) => {
    const { createNode } = actions;
-    let resourceType = "image"
+    let resourceType = "object"
     let baseUrl = `https://api.harvardartmuseums.org/${resourceType}/`;
     let apiKey = process.env.HARVARD_API_KEY;
   
     let requestParams = {
       apikey: apiKey,
       size: 100,
-      page: 20
+      page: 20,
+      hasimage: 1
     }
   
     let params = new URLSearchParams(requestParams);
@@ -40,16 +41,16 @@ let responseData = {}
 console.log(responseData)
 
 
-     responseData?.records?.forEach((image) => {
-        console.log("data: " , image),
+     responseData?.records?.forEach((object) => {
+        console.log("data: " , object),
         createNode({
-        ...image,
-        id: createNodeId(image.id), //[ pass a unique identifier here: [movie.id] for example
+        ...object,
+        id: createNodeId(object.id), //[ pass a unique identifier here: [movie.id] for example
         parent: null,
         children: [],
         internal: {
-            type: 'Images',   // name of collection in graphql schema
-            contentDigest: createContentDigest(image),
+            type: 'Objects',   // name of collection in graphql schema
+            contentDigest: createContentDigest(object),
         },
         })
     })

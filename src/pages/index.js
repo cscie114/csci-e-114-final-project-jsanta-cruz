@@ -8,42 +8,112 @@ import "slick-carousel/slick/slick-theme.css";
 import SliderCarousel from "../components/slideshow";
 
 
-const IndexPage = ({data}) => {
-  const images = data.allImages.nodes;
+const IndexPage = (props) => {
+  const object = props.data.allObjects.nodes;
 
   return (
     <>
     <Layout pageTitle="Josh's Final Project">
       <p>Hello World!</p>
+
+    <SliderCarousel key={object?.id} object={object}></SliderCarousel>
     </Layout>
-    <SliderCarousel key={images?.id} images={images}></SliderCarousel>
     <Footer />
     </>
   )
 }
 
 export const query = graphql`
-query ImagesPageQuery {
-  allImages {
-      nodes {
-        technique
-        renditionnumber
-        width
-        description
+query ObjectsQuery {
+  allObjects {
+    nodes {
+      accessionmethod
+      accessionyear
+      accesslevel
+      century
+      classification
+      classificationid
+      colorcount
+      contact
+      contextualtextcount
+      copyright
+      creditline
+      culture
+      datebegin
+      dated
+      dateend
+      dateoffirstpageview
+      dateoflastpageview
+      department
+      description
+      dimensions
+      division
+      exhibitioncount
+      groupcount
+      id
+      imagecount
+      imagepermissionlevel
+      images {
+        baseimageurl
         copyright
         date
-        accesslevel
-        alttext
-        baseimageurl
-        caption
+        displayorder
+        format
         height
+        iiifbaseuri
+        imageid
+        renditionnumber
+        width
+      }
+      lastupdate
+      objectid
+      objectnumber
+      medium
+      mediacount
+      markscount
+      lendingpermissionlevel
+      peoplecount
+      period
+      periodid
+      primaryimageurl
+      provenance
+      publicationcount
+      rank
+      relatedcount
+      signed
+      techniqueid
+      title
+      titlescount
+      totalpageviews
+      totaluniquepageviews
+      url
+      verificationlevel
+      verificationleveldescription
+      worktypes {
+        worktype
+        worktypeid
+      }
+      seeAlso {
         format
         id
-        imageid
-        lastupdate
-        iiifbaseuri
+        profile
+        type
+      }
+      people {
+        alphasort
+        birthplace
+        culture
+        deathplace
+        displaydate
+        displayname
+        displayorder
+        gender
+        name
+        personid
+        role
       }
     }
+  }
 }
 `;
 
