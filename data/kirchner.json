@@ -1,0 +1,1763 @@
+[
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Gift of Mrs. Walter Gropius",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-12-06",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 21,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 9,
+            "rank": 171267,
+            "id": 222322,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": null,
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 55212,
+                    "idsid": 20684237,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Ektapan",
+                    "renditionnumber": "63824",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS63824_dynmc",
+                    "alttext": null,
+                    "width": 825,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20684237",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 24,
+            "accessionyear": 1974,
+            "standardreferencenumber": "Dube 409; Wingler V/6",
+            "signed": "stamped in blue ink at l.r.: ELKirchner",
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS63824_dynmc",
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:08-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Woodcut",
+            "edition": null,
+            "description": null,
+            "medium": "Woodcut printed in black ink on tan wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Portrait of David M., from the portfolio \"New European Graphics, Portfolio V: German Artists\"",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.25044444444444447,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#fafafa",
+                    "spectrum": "#955ba5",
+                    "hue": "White",
+                    "percent": 0.2018888888888889,
+                    "css3": "#fffafa"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.10361111111111111,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.09322222222222222,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.08694444444444445,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#000000",
+                    "spectrum": "#1eb264",
+                    "hue": "Black",
+                    "percent": 0.08116666666666666,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.0651111111111111,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.06438888888888888,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.05322222222222222,
+                    "css3": "#696969"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 1,
+            "dated": "1919 (printed 1922)",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1919,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/222322",
+            "dateoffirstpageview": "2009-10-23",
+            "century": "20th century",
+            "objectnumber": "BR74.34",
+            "labeltext": null,
+            "datebegin": 1919,
+            "culture": "German",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 222322,
+            "techniqueid": 194,
+            "dimensions": "block: 34 x 29.5 cm (13 3/8 x 11 5/8 in.)\r\nsheet: 48.3 x 42.8 cm (19 x 16 7/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/222322",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Gift of Selma H. Sobin",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-31",
+            "classificationid": 47,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 30,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 7,
+            "rank": 170761,
+            "id": 222632,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2005-09-27",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 113952,
+                    "idsid": 18783673,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV018280",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV018280_dynmc",
+                    "alttext": null,
+                    "width": 807,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18783673",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "44",
+                    "worktype": "book"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 41,
+            "accessionyear": 1967,
+            "standardreferencenumber": "Dube 199-203",
+            "signed": null,
+            "classification": "Books",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV018280_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:08-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Woodcut and letterpress",
+            "edition": null,
+            "description": null,
+            "medium": "Letterpress and 5 woodcuts printed in black ink on buff wove paper, bound",
+            "lendingpermissionlevel": 0,
+            "title": "Das Stiftsfräulein und Der Tod [author: Alfred Döblin]",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.8230508474576271,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.037005649717514126,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.03638418079096045,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.03214689265536723,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#323219",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.028305084745762713,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.027740112994350283,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.015367231638418079,
+                    "css3": "#556b2f"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1913",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1913,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/222632",
+            "dateoffirstpageview": "2009-11-09",
+            "century": "20th century",
+            "objectnumber": "BR67.4",
+            "labeltext": null,
+            "datebegin": 1913,
+            "culture": "German",
+            "exhibitioncount": 2,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 222632,
+            "techniqueid": 2597,
+            "dimensions": "cover: 23.2 x 18.1 cm (9 1/8 x 7 1/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/222632",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Gift of Charles L. Kuhn in memory of Louis W. Black",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-15",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 4,
+            "publicationcount": 0,
+            "totaluniquepageviews": 262,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 165332,
+            "id": 223237,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2012-06-11",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 412355,
+                    "idsid": 43703186,
+                    "format": "image/jpeg",
+                    "description": "Chunky, bold black lines outline four semi-abstract figures that stand at the edge of a pond, indicated by a large black half-oval extending in from the left. A grassy shore and dense vegetation are indicated by bright green shapes that mass along the bottom, curve around the right side, and then recede in the distance beyond the pond along the top. Two figures at right stand in the foreground on the shore, holding thin reeds, while the other two do likewise, just beyond them in shallow water at center-left. While they lack distinct facial features, the figures, simplified pale orange shapes, show animated gestures.",
+                    "technique": null,
+                    "renditionnumber": "DDC235390",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC235390_dynmc",
+                    "alttext": "Four nude figures stand on the shore of a pond, amid dense foliage",
+                    "width": 1024,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/43703186",
+                    "height": 777
+                },
+                {
+                    "date": null,
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 22782,
+                    "idsid": 20684283,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Safety Film",
+                    "renditionnumber": "64027",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS64027_dynmc",
+                    "alttext": null,
+                    "width": 1024,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20684283",
+                    "height": 794
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 2,
+            "totalpageviews": 307,
+            "accessionyear": 1958,
+            "standardreferencenumber": "Dube I 160; Sch. 121",
+            "signed": "in graphite at l.r.: ELKirchner",
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC235390_dynmc",
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:08-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Woodcut",
+            "edition": null,
+            "description": null,
+            "medium": "Woodcut printed in black, green, and red inks on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Bathers Tossing Reeds",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.4387610619469027,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#e1c8c8",
+                    "spectrum": "#c15689",
+                    "hue": "Orange",
+                    "percent": 0.1559882005899705,
+                    "css3": "#d8bfd8"
+                },
+                {
+                    "color": "#649664",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.09793510324483776,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b644b",
+                    "spectrum": "#3db657",
+                    "hue": "Green",
+                    "percent": 0.0744542772861357,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#7daf64",
+                    "spectrum": "#72bf44",
+                    "hue": "Green",
+                    "percent": 0.07427728613569322,
+                    "css3": "#8fbc8f"
+                },
+                {
+                    "color": "#96af7d",
+                    "spectrum": "#84c441",
+                    "hue": "Orange",
+                    "percent": 0.03581120943952802,
+                    "css3": "#8fbc8f"
+                },
+                {
+                    "color": "#e17d4b",
+                    "spectrum": "#f17c4f",
+                    "hue": "Orange",
+                    "percent": 0.03050147492625369,
+                    "css3": "#cd853f"
+                },
+                {
+                    "color": "#644b32",
+                    "spectrum": "#59ba4a",
+                    "hue": "Brown",
+                    "percent": 0.025132743362831857,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#e19664",
+                    "spectrum": "#ef7a55",
+                    "hue": "Orange",
+                    "percent": 0.024424778761061947,
+                    "css3": "#e9967a"
+                },
+                {
+                    "color": "#96644b",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.018938053097345132,
+                    "css3": "#a0522d"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1909",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1909,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/223237",
+            "dateoffirstpageview": "2009-11-09",
+            "century": "20th century",
+            "objectnumber": "BR58.190",
+            "labeltext": null,
+            "datebegin": 1909,
+            "culture": "German",
+            "exhibitioncount": 4,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 223237,
+            "techniqueid": 194,
+            "dimensions": "block: 20 x 29.1 cm (7 7/8 x 11 7/16 in.)\r\nsheet: 32.5 x 44 cm (12 13/16 x 17 5/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/223237",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Purchase in memory of Louis W. Black",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-03",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 3,
+            "publicationcount": 0,
+            "totaluniquepageviews": 25,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 165387,
+            "id": 223260,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": null,
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 123416,
+                    "idsid": 43162464,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "LEG93482",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG93482_dynmc",
+                    "alttext": null,
+                    "width": 882,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/43162464",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 30,
+            "accessionyear": 1959,
+            "standardreferencenumber": "Sch. 81; D. 122",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG93482_dynmc",
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:08-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Lithograph",
+            "edition": null,
+            "description": null,
+            "medium": "Lithograph printed in black, red and blue inks on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Dancer Seeking Applause",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.38087855297157625,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.16387596899224807,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.09917312661498708,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.08759689922480621,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.07023255813953488,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.06625322997416021,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.05462532299741602,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.04904392764857881,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#fafafa",
+                    "spectrum": "#955ba5",
+                    "hue": "White",
+                    "percent": 0.023255813953488372,
+                    "css3": "#fffafa"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.005064599483204134,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1909",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1909,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/223260",
+            "dateoffirstpageview": "2009-09-10",
+            "century": "20th century",
+            "objectnumber": "BR59.37",
+            "labeltext": null,
+            "datebegin": 1909,
+            "culture": "German",
+            "exhibitioncount": 3,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 223260,
+            "techniqueid": 136,
+            "dimensions": "stone: 38.5 x 33 cm (15 3/16 x 13 in.)\r\nirregular: 51.9 x 45.1 cm (20 7/16 x 17 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/223260",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Gift of John McAndrew",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-31",
+            "classificationid": 47,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 54,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 8,
+            "rank": 165303,
+            "id": 223295,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2005-09-27",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 62024,
+                    "idsid": 18783674,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV018281",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV018281_dynmc",
+                    "alttext": null,
+                    "width": 707,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18783674",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "44",
+                    "worktype": "book"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 60,
+            "accessionyear": 1958,
+            "standardreferencenumber": "Dube 758-807",
+            "signed": null,
+            "classification": "Books",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV018281_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:09-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Woodcut",
+            "edition": null,
+            "description": null,
+            "medium": "Mechanically printed text and 47 woodcuts on off-white laid paper, 2 woodcuts on pink wove paper, and 1 woodcut on linen, bound",
+            "lendingpermissionlevel": 0,
+            "title": "Umbra Vitae [author: Georg Heym]",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.3762459546925566,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#4b6432",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.24640776699029127,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#324b32",
+                    "spectrum": "#2eb45d",
+                    "hue": "Green",
+                    "percent": 0.1811650485436893,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#c89632",
+                    "spectrum": "#f79738",
+                    "hue": "Yellow",
+                    "percent": 0.14563106796116504,
+                    "css3": "#cd853f"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.046537216828478965,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#644b19",
+                    "spectrum": "#64bc46",
+                    "hue": "Orange",
+                    "percent": 0.0037540453074433656,
+                    "css3": "#8b4513"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.0001941747572815534,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96afaf",
+                    "spectrum": "#7b65ad",
+                    "hue": "Blue",
+                    "percent": 0.00006472491909385113,
+                    "css3": "#a9a9a9"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1924",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1924,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/223295",
+            "dateoffirstpageview": "2009-10-23",
+            "century": "20th century",
+            "objectnumber": "BR58.158",
+            "labeltext": null,
+            "datebegin": 1924,
+            "culture": "German",
+            "exhibitioncount": 2,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 223295,
+            "techniqueid": 194,
+            "dimensions": "cover: 23.7 x 16.5 cm (9 5/16 x 6 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/223295",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Gift of Mrs. Margarete Schultz",
+            "accesslevel": 1,
+            "dateoflastpageview": "2023-04-25",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 3,
+            "publicationcount": 0,
+            "totaluniquepageviews": 24,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 165488,
+            "id": 223304,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": null,
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 19669,
+                    "idsid": 43898056,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Super XX",
+                    "renditionnumber": "64240",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS64240_dynmc",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/43898056",
+                    "height": 2125
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 34,
+            "accessionyear": 1960,
+            "standardreferencenumber": "Dube 105",
+            "signed": "in graphite at l.r.: E L Kirchner",
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS64240_dynmc",
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:09-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Lithograph",
+            "edition": null,
+            "description": null,
+            "medium": "Lithograph printed in black ink on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Reclining Woman",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.34901333333333334,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.22810666666666668,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.08789333333333334,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.06517333333333333,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.052533333333333335,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.05109333333333333,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.04650666666666667,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.04416,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.042986666666666666,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#fafafa",
+                    "spectrum": "#955ba5",
+                    "hue": "White",
+                    "percent": 0.032266666666666666,
+                    "css3": "#fffafa"
+                }
+            ],
+            "provenance": "Margarete Schultz, gift; to the Busch-Reisinger Museum, 1960",
+            "groupcount": 0,
+            "dated": "1909",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1909,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/223304",
+            "dateoffirstpageview": "2009-11-09",
+            "century": "20th century",
+            "objectnumber": "BR60.10",
+            "labeltext": null,
+            "datebegin": 1909,
+            "culture": "German",
+            "exhibitioncount": 3,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 223304,
+            "techniqueid": 136,
+            "dimensions": "sheet: 49.4 x 59.3 cm (19 7/16 x 23 3/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/223304",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Anonymous Gift",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-19",
+            "classificationid": 21,
+            "division": "Modern and Contemporary Art",
+            "markscount": 4,
+            "publicationcount": 0,
+            "totaluniquepageviews": 51,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 164813,
+            "id": 223460,
+            "state": null,
+            "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2015-10-29",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 457451,
+                    "idsid": 418430168,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Sinar Photography AG;Model:Sinar CMV/ Sinarback eVolution 86H;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "759080",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:759080",
+                    "alttext": null,
+                    "width": 1912,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/418430168",
+                    "height": 2550
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 55,
+            "accessionyear": 1956,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 2,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:759080",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:09-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Pastel with charcoal on paper",
+            "lendingpermissionlevel": 0,
+            "title": "Portrait of a Woman",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8967d",
+                    "spectrum": "#e66c64",
+                    "hue": "Grey",
+                    "percent": 0.22678571428571428,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#c87d64",
+                    "spectrum": "#e66c64",
+                    "hue": "Orange",
+                    "percent": 0.19863095238095238,
+                    "css3": "#cd5c5c"
+                },
+                {
+                    "color": "#c8644b",
+                    "spectrum": "#e46867",
+                    "hue": "Red",
+                    "percent": 0.105,
+                    "css3": "#cd5c5c"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.07904761904761905,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b7d96",
+                    "spectrum": "#536fb5",
+                    "hue": "Blue",
+                    "percent": 0.06946428571428571,
+                    "css3": "#4682b4"
+                },
+                {
+                    "color": "#fae1c8",
+                    "spectrum": "#ed765a",
+                    "hue": "Yellow",
+                    "percent": 0.048273809523809524,
+                    "css3": "#ffe4c4"
+                },
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.04595238095238095,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#e1af96",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.039464285714285716,
+                    "css3": "#deb887"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.03833333333333333,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#644b4b",
+                    "spectrum": "#8362aa",
+                    "hue": "Brown",
+                    "percent": 0.030119047619047618,
+                    "css3": "#696969"
+                }
+            ],
+            "provenance": "Museum der bildenden Künste, Leipzig; removed from the collection by the National Socialist (Nazi) authorities, August 20, 1937 [EK 1064]; [Bernhard Böhmer]. [Buchholz Gallery, New York ] sold; to private collector (1951), gift; to Busch-Reisinger Museum, 1956.",
+            "groupcount": 0,
+            "dated": "c. 1913",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1918,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/223460",
+            "dateoffirstpageview": "2010-09-10",
+            "century": "20th century",
+            "objectnumber": "BR56.6",
+            "labeltext": null,
+            "datebegin": 1908,
+            "culture": "German",
+            "exhibitioncount": 3,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 223460,
+            "techniqueid": null,
+            "dimensions": "sight: 67.3 x 49.9 cm (26 1/2 x 19 5/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/223460",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Association Fund",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-01",
+            "classificationid": 21,
+            "division": "Modern and Contemporary Art",
+            "markscount": 1,
+            "publicationcount": 0,
+            "totaluniquepageviews": 71,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 8,
+            "rank": 164529,
+            "id": 223730,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2008-08-20",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 321134,
+                    "idsid": 10769518,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV201769",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV201769_dynmc",
+                    "alttext": null,
+                    "width": 844,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/10769518",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 83,
+            "accessionyear": 1953,
+            "standardreferencenumber": null,
+            "signed": "in graphite at l.c.: ELKirchner",
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV201769_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:09-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Charcoal on cream wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Nudes",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#e1c896",
+                    "spectrum": "#ed765a",
+                    "hue": "Yellow",
+                    "percent": 0.531219512195122,
+                    "css3": "#deb887"
+                },
+                {
+                    "color": "#c8af7d",
+                    "spectrum": "#e9715f",
+                    "hue": "Brown",
+                    "percent": 0.14368563685636856,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.09311653116531166,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.08075880758807588,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.06731707317073171,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#fae1e1",
+                    "spectrum": "#e76d63",
+                    "hue": "Red",
+                    "percent": 0.03528455284552846,
+                    "css3": "#ffe4e1"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.034959349593495934,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.013658536585365854,
+                    "css3": "#556b2f"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1904",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1904,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/223730",
+            "dateoffirstpageview": "2009-08-12",
+            "century": "20th century",
+            "objectnumber": "BR53.93",
+            "labeltext": null,
+            "datebegin": 1904,
+            "culture": "German",
+            "exhibitioncount": 3,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 223730,
+            "techniqueid": null,
+            "dimensions": "59.9 x 49.1 cm (23 9/16 x 19 5/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/223730",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Gift of Louis W. Black",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-02",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 38,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 8,
+            "rank": 164764,
+            "id": 223794,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2005-07-07",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 111674,
+                    "idsid": 20220112,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV010905",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV010905_dynmc",
+                    "alttext": null,
+                    "width": 807,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20220112",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 45,
+            "accessionyear": 1955,
+            "standardreferencenumber": "Dube 308 II C",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV010905_dynmc",
+            "titlescount": 2,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:09-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Lithograph",
+            "edition": null,
+            "description": null,
+            "medium": "Lithograph printed in black ink on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "In the Barracks Courtyard, from \"Der Bildermann\", no. 15, 1916",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.6792655367231638,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.0843502824858757,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.07615819209039548,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.037796610169491526,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.03316384180790961,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.03146892655367232,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.028926553672316384,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.028870056497175143,
+                    "css3": "#808080"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1916",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1916,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Artist",
+                    "birthplace": "Freiburg i. Br., Germany",
+                    "gender": "male",
+                    "displaydate": "1882 - 1941",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Rudolf Grossmann",
+                    "alphasort": "Grossmann, Rudolf",
+                    "name": "Rudolf Grossmann",
+                    "personid": 23768,
+                    "deathplace": "Freiburg i. Br., Germany",
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/223794",
+            "dateoffirstpageview": "2009-10-23",
+            "century": "20th century",
+            "objectnumber": "BR55.351.3",
+            "labeltext": null,
+            "datebegin": 1916,
+            "culture": "German",
+            "exhibitioncount": 1,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 223794,
+            "techniqueid": 136,
+            "dimensions": "stone: 26.8 x 21.4 cm (10 9/16 x 8 7/16 in.)\r\nsheet: 35.1 x 27.8 cm (13 13/16 x 10 15/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/223794",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Busch-Reisinger Museum, Gift of Louis W. Black",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-02",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 65,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 8,
+            "rank": 164753,
+            "id": 223811,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2005-07-15",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 111951,
+                    "idsid": 20221027,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV011825",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV011825_dynmc",
+                    "alttext": null,
+                    "width": 809,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20221027",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 70,
+            "accessionyear": 1955,
+            "standardreferencenumber": "Dube 328 C",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV011825_dynmc",
+            "titlescount": 2,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:09-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Lithograph",
+            "edition": null,
+            "description": null,
+            "medium": "Lithograph printed in black ink on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Portrait of Carl Sternheim, from \"Der Bildermann\", no. 9, 1916",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.4598870056497175,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.14508474576271185,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.12943502824858757,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.06062146892655367,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.06005649717514124,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.05163841807909605,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.04768361581920904,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.045593220338983054,
+                    "css3": "#808080"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1916",
+            "department": "Busch-Reisinger Museum",
+            "dateend": 1916,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Aschaffenburg am Main, Germany",
+                    "gender": "male",
+                    "displaydate": "1880 - 1938",
+                    "prefix": null,
+                    "culture": "German",
+                    "displayname": "Ernst Ludwig Kirchner",
+                    "alphasort": "Kirchner, Ernst Ludwig",
+                    "name": "Ernst Ludwig Kirchner",
+                    "personid": 26893,
+                    "deathplace": "Davos, Switzerland",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Artist",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": null,
+                    "prefix": null,
+                    "culture": null,
+                    "displayname": "Ottmar Starke",
+                    "alphasort": "Starke, Ottmar",
+                    "name": "Ottmar Starke",
+                    "personid": 52254,
+                    "deathplace": null,
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/223811",
+            "dateoffirstpageview": "2009-10-23",
+            "century": "20th century",
+            "objectnumber": "BR55.345.2",
+            "labeltext": null,
+            "datebegin": 1916,
+            "culture": "German",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 223811,
+            "techniqueid": 136,
+            "dimensions": "stone: 30 x 20.2 cm (11 13/16 x 7 15/16 in.)\r\nsheet: 35.3 x 27.7 cm (13 7/8 x 10 7/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/223811",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        }
+    ]

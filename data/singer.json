@@ -1,0 +1,1785 @@
+[
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2023-10-15",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 1,
+            "totaluniquepageviews": 110,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 9,
+            "rank": 63858,
+            "id": 191331,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "1998-11-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 1957,
+                    "idsid": 20863342,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Ektapan",
+                    "renditionnumber": "11810",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS11810_dynmc",
+                    "alttext": null,
+                    "width": 1024,
+                    "publiccaption": "1937.8.196 (top); 1937.8.43 (bottom)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20863342",
+                    "height": 802
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 123,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS11810_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:32-0400",
+            "commentary": "Inscription reads: FORMULA VIRTUTIS MARIS ASTRUM PORTA SALUTIS / PROLE MARIA LEVAT QUOS CONIUGE SUBDIVIT EVA.  The sheet is cut down, as evidenced by the partial sketch on the verso; the figures depicted there appear to be mural-related, possibly for the \"Sermon on the Mount;\" the figure at the right may be Christ, with three figures at the left reaching for his hand.",
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Graphite on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Apse Inscription from Torcello, Italy; verso: Partial Sketch of Figures",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.23247863247863249,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.2068945868945869,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.18096866096866096,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.17846153846153845,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.15498575498575498,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.03743589743589744,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.0065527065527065526,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.0019373219373219374,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.0002849002849002849,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.\r\n\r\n",
+            "groupcount": 0,
+            "dated": "c. 1897",
+            "department": "Department of Drawings",
+            "dateend": 1902,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/191331",
+            "dateoffirstpageview": "2009-12-07",
+            "century": "19th century",
+            "objectnumber": "1937.8.196",
+            "labeltext": null,
+            "datebegin": 1892,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 191331,
+            "techniqueid": null,
+            "dimensions": "6.9 x 24.9 cm (2 11/16 x 9 13/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/191331",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Miss Emily Sargent and Mrs. Francis Ormond, in memory of their brother, John Singer Sargent (through Thomas A. Fox, Esq.)",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-20",
+            "classificationid": 26,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 6,
+            "totaluniquepageviews": 222,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 60042,
+            "id": 192588,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "1969-08-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 11663,
+                    "idsid": 20679065,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Safety Film",
+                    "renditionnumber": "40966",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS40966_dynmc",
+                    "alttext": null,
+                    "width": 795,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20679065",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "248",
+                    "worktype": "painting"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 270,
+            "accessionyear": 1933,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Paintings",
+            "relatedcount": 7,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS40966_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Cast",
+            "edition": null,
+            "description": null,
+            "medium": "Oil on panel, with paper additions and cast plaster",
+            "lendingpermissionlevel": 0,
+            "title": "Model for the Boston Public Library, South End",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.2785057471264368,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.12522988505747126,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.1171264367816092,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.10339080459770116,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.0882183908045977,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.06379310344827586,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.06091954022988506,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.06045977011494253,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.057011494252873565,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#fafafa",
+                    "spectrum": "#955ba5",
+                    "hue": "White",
+                    "percent": 0.034597701149425286,
+                    "css3": "#fffafa"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; their gift to the Fogg Art Museum, 1933.",
+            "groupcount": 0,
+            "dated": "1893 - 1903",
+            "department": "Department of American Paintings, Sculpture & Decorative Arts",
+            "dateend": 1903,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/192588",
+            "dateoffirstpageview": "2009-12-25",
+            "century": "19th-20th century",
+            "objectnumber": "1933.45.A-F",
+            "labeltext": null,
+            "datebegin": 1893,
+            "culture": "American",
+            "exhibitioncount": 1,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 192588,
+            "techniqueid": 233,
+            "dimensions": null,
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/192588",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-09",
+            "classificationid": 17,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 79,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 8,
+            "rank": 63542,
+            "id": 193128,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2005-04-11",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 24060,
+                    "idsid": 18204143,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "77902",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:77902_dynmc",
+                    "alttext": null,
+                    "width": 781,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18204143",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "10",
+                    "worktype": "album page"
+                },
+                {
+                    "worktypeid": "266",
+                    "worktype": "photograph"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 93,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Photographs",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:77902_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Gelatin silver print",
+            "edition": null,
+            "description": null,
+            "medium": "Gelatin silver print on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Photograph of \"La Carmencita\"",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.19660818713450293,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#323219",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.17935672514619883,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b3232",
+                    "spectrum": "#4ab851",
+                    "hue": "Red",
+                    "percent": 0.1675438596491228,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.1653216374269006,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#644b32",
+                    "spectrum": "#59ba4a",
+                    "hue": "Brown",
+                    "percent": 0.162046783625731,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.06742690058479532,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.03818713450292398,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.023508771929824562,
+                    "css3": "#808080"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.",
+            "groupcount": 0,
+            "dated": "c. 1890 - 1891",
+            "department": "Department of Drawings",
+            "dateend": 1891,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/193128",
+            "dateoffirstpageview": "2009-06-05",
+            "century": "19th century",
+            "objectnumber": "1937.7.27.9.B",
+            "labeltext": null,
+            "datebegin": 1890,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 193128,
+            "techniqueid": 123,
+            "dimensions": "33.5 x 19.7 cm (13 3/16 x 7 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/193128",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-28",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 2,
+            "totaluniquepageviews": 27,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 7,
+            "rank": 63927,
+            "id": 193130,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520174,
+                    "idsid": 493311695,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777221",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777221",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "album page 6 recto (with 1937.10.6.A-B)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311695",
+                    "height": 1957
+                },
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520175,
+                    "idsid": 493311779,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777222",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777222",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "album page 6 verso (with 1937.10.6.C-E)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311779",
+                    "height": 1923
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "10",
+                    "worktype": "album page"
+                },
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 2,
+            "totalpageviews": 37,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777221",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Off-white card",
+            "lendingpermissionlevel": 0,
+            "title": "Album Leaf with Two Drawings; verso: Album Leaf with Two Photographs and a Drawing",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1c8c8",
+                    "spectrum": "#c15689",
+                    "hue": "Orange",
+                    "percent": 0.7450434782608696,
+                    "css3": "#d8bfd8"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.10446376811594203,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.0638840579710145,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.058956521739130435,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.011652173913043478,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#321919",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.008347826086956521,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.0076521739130434785,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.\r\n\r\n",
+            "groupcount": 0,
+            "dated": "19th-20th century",
+            "department": "Department of Drawings",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/193130",
+            "dateoffirstpageview": "2009-12-07",
+            "century": "19th-20th century",
+            "objectnumber": "1937.10.6",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 193130,
+            "techniqueid": null,
+            "dimensions": "53.2 x 68 cm (20 15/16 x 26 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/193130",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2023-02-03",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 11,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 63933,
+            "id": 193131,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520176,
+                    "idsid": 493311691,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777223",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777223",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "album page 7 recto (with 1937.10.7.A-B)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311691",
+                    "height": 1949
+                },
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520177,
+                    "idsid": 493311671,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777224",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777224",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "album page 7 verso (with 1937.10.7.C-D)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311671",
+                    "height": 1917
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "10",
+                    "worktype": "album page"
+                },
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 2,
+            "totalpageviews": 15,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777223",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Off-white card",
+            "lendingpermissionlevel": 0,
+            "title": "Album Leaf with Two Drawings; verso: Album Leaf with Two Drawings",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.6550292397660818,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.22649122807017544,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.038830409356725146,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.01888888888888889,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.015614035087719299,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.014444444444444444,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.011637426900584795,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#321919",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.009473684210526316,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.005146198830409357,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.0044444444444444444,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.\r\n\r\n",
+            "groupcount": 0,
+            "dated": "19th-20th century",
+            "department": "Department of Drawings",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/193131",
+            "dateoffirstpageview": "2010-02-27",
+            "century": "19th-20th century",
+            "objectnumber": "1937.10.7",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 193131,
+            "techniqueid": null,
+            "dimensions": "53.2 x 68 cm (20 15/16 x 26 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/193131",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-28",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 1,
+            "totaluniquepageviews": 44,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 63938,
+            "id": 193132,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520178,
+                    "idsid": 493311679,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777225",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777225",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "album page 8 recto (with 1937.10.8.A-B)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311679",
+                    "height": 1960
+                },
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520179,
+                    "idsid": 493311739,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777226",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777226",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "album page 8 verso (with 1937.10.8.C-J)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311739",
+                    "height": 1944
+                },
+                {
+                    "date": "1999-03-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 24921,
+                    "idsid": 20673209,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Ektapan",
+                    "renditionnumber": "19438",
+                    "displayorder": 3,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS19438_dynmc",
+                    "alttext": null,
+                    "width": 1024,
+                    "publiccaption": "album page 8 (with 1937.10.8.A-B)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20673209",
+                    "height": 810
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                },
+                {
+                    "worktypeid": "10",
+                    "worktype": "album page"
+                }
+            ],
+            "imagecount": 3,
+            "totalpageviews": 53,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777225",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Off-white card",
+            "lendingpermissionlevel": 0,
+            "title": "Album Leaf with Two Drawings; verso: Album Leaf with Seven Drawings and a Stencil",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.8657391304347826,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.03205797101449275,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.021217391304347827,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.018782608695652174,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.018144927536231883,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.015130434782608696,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.012289855072463768,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.006376811594202898,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.005275362318840579,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#644b4b",
+                    "spectrum": "#8362aa",
+                    "hue": "Brown",
+                    "percent": 0.0027246376811594203,
+                    "css3": "#696969"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.\r\n\r\n",
+            "groupcount": 0,
+            "dated": "19th-20th century",
+            "department": "Department of Drawings",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/193132",
+            "dateoffirstpageview": "2009-07-31",
+            "century": "19th-20th century",
+            "objectnumber": "1937.10.8",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 193132,
+            "techniqueid": null,
+            "dimensions": "53.2 x 68 cm (20 15/16 x 26 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/193132",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2023-01-05",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 9,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 63954,
+            "id": 193133,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520186,
+                    "idsid": 493311771,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777233",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777233",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "1937.10.10.A",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311771",
+                    "height": 1952
+                },
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520183,
+                    "idsid": 493311667,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777230",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777230",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "album page 10 recto",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311667",
+                    "height": 1967
+                },
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520184,
+                    "idsid": 493311763,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777231",
+                    "displayorder": 3,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777231",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "album page 10 verso (with 1937.10.10.C-I)",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311763",
+                    "height": 1961
+                },
+                {
+                    "date": "2021-11-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 520187,
+                    "idsid": 493311747,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 22.4 (Macintosh);",
+                    "renditionnumber": "777234",
+                    "displayorder": 4,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777234",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "1937.10.10.A",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/493311747",
+                    "height": 1954
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                },
+                {
+                    "worktypeid": "10",
+                    "worktype": "album page"
+                }
+            ],
+            "imagecount": 4,
+            "totalpageviews": 11,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:777233",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Off-white card",
+            "lendingpermissionlevel": 0,
+            "title": "Album Leaf with Two Drawings; Album Leaf with Eight Drawings",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#af7d4b",
+                    "spectrum": "#e9715f",
+                    "hue": "Yellow",
+                    "percent": 0.4166081871345029,
+                    "css3": "#cd853f"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.19263157894736843,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.15660818713450292,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.08385964912280702,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.04087719298245614,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.02497076023391813,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#c8964b",
+                    "spectrum": "#f58843",
+                    "hue": "Yellow",
+                    "percent": 0.02456140350877193,
+                    "css3": "#cd853f"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.019005847953216373,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.008888888888888889,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.008304093567251461,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.\r\n\r\n",
+            "groupcount": 0,
+            "dated": "19th-20th century",
+            "department": "Department of Drawings",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/193133",
+            "dateoffirstpageview": "2010-03-02",
+            "century": "19th-20th century",
+            "objectnumber": "1937.10.10",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 193133,
+            "techniqueid": null,
+            "dimensions": "53.2 x 68 cm (20 15/16 x 26 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/193133",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-26",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 1,
+            "totaluniquepageviews": 36,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 4,
+            "rank": 63646,
+            "id": 193134,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2005-03-02",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 71272,
+                    "idsid": 18740639,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV001634",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV001634_dynmc",
+                    "alttext": null,
+                    "width": 1024,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18740639",
+                    "height": 683
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "335",
+                    "worktype": "sketchbook page"
+                },
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 47,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV001634_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": "This page is part of a segment of a sketchbook that was previously inserted into the back of 1937.7.25.  This sketchbook segment is unrelated to that sketchbook.",
+            "medium": "Graphite on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Sketches of a Globe",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.47573333333333334,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.4702,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.03353333333333333,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.020533333333333334,
+                    "css3": "#a9a9a9"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.",
+            "groupcount": 0,
+            "dated": "19th-20th century",
+            "department": "Department of Drawings",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/193134",
+            "dateoffirstpageview": "2010-03-02",
+            "century": "19th-20th century",
+            "objectnumber": "1937.7.35.1",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 193134,
+            "techniqueid": null,
+            "dimensions": "16.1 x 24.1 cm (6 5/16 x 9 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/193134",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-26",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 1,
+            "totaluniquepageviews": 38,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 4,
+            "rank": 63648,
+            "id": 193135,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2005-03-02",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 109125,
+                    "idsid": 18740640,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV001635",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV001635_dynmc",
+                    "alttext": null,
+                    "width": 1024,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18740640",
+                    "height": 689
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                },
+                {
+                    "worktypeid": "335",
+                    "worktype": "sketchbook page"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 44,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV001635_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": "This page is part of a segment of a sketchbook that was previously inserted into the back of 1937.7.25.  This sketchbook segment is unrelated to that sketchbook.",
+            "medium": "Graphite on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Mountain Landscape",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.5216666666666666,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.4206666666666667,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.03153333333333333,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.026133333333333335,
+                    "css3": "#a9a9a9"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.",
+            "groupcount": 0,
+            "dated": "19th-20th century",
+            "department": "Department of Drawings",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/193135",
+            "dateoffirstpageview": "2009-07-23",
+            "century": "19th-20th century",
+            "objectnumber": "1937.7.35.2",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 193135,
+            "techniqueid": null,
+            "dimensions": "16.1 x 24.1 cm (6 5/16 x 9 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/193135",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Francis Ormond",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-26",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 1,
+            "totaluniquepageviews": 23,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 4,
+            "rank": 63649,
+            "id": 193136,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2005-03-02",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 109126,
+                    "idsid": 18740641,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV001636",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV001636_dynmc",
+                    "alttext": null,
+                    "width": 1024,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18740641",
+                    "height": 690
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                },
+                {
+                    "worktypeid": "335",
+                    "worktype": "sketchbook page"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 27,
+            "accessionyear": 1937,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV001636_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:00:33-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": "This page is part of a segment of a sketchbook that was previously inserted into the back of 1937.7.25.  This sketchbook segment is unrelated to that sketchbook.",
+            "medium": "Graphite on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Mountain Landscape",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.48244224422442245,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.46805280528052806,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.03399339933993399,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.015511551155115511,
+                    "css3": "#a9a9a9"
+                }
+            ],
+            "provenance": "To the artist's sisters, Violet (Mrs. Francis) Ormond and Emily Sargent, at his death, 1925; gift of Mrs. Ormond to the Fogg Art Museum, 1937.\r\n",
+            "groupcount": 0,
+            "dated": "19th-20th century",
+            "department": "Department of Drawings",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Florence, Italy",
+                    "gender": "male",
+                    "displaydate": "1856 - 1925",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "John Singer Sargent",
+                    "alphasort": "Sargent, John Singer",
+                    "name": "John Singer Sargent",
+                    "personid": 28495,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/193136",
+            "dateoffirstpageview": "2009-09-16",
+            "century": "19th-20th century",
+            "objectnumber": "1937.7.35.3",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 193136,
+            "techniqueid": null,
+            "dimensions": "16.1 x 24.1 cm (6 5/16 x 9 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/193136",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        }
+    ]

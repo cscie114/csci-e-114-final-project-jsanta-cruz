@@ -1,0 +1,1898 @@
+[
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest from the Collection of Maurice Wertheim, Class of 1906",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-03",
+            "classificationid": 26,
+            "division": "European and American Art",
+            "markscount": 5,
+            "publicationcount": 64,
+            "totaluniquepageviews": 11016,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 6,
+            "rank": 81018,
+            "id": 228744,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2012-12-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 417404,
+                    "idsid": 45443484,
+                    "format": "image/jpeg",
+                    "description": "The earthy still life depicts six well-worn worker shoes. The shoe in the center is the only one that’s upside down, revealing the underside of the sole and heel with several nails along its outer edge. The others all point to the right. The first shoe’s top is folded over to reveal a tan interior. The other shoes are in various stages of being untied. Light falls on all from the top. The pronounced brush strokes are rich with textures and follow the surfaces of every shape in the painting, giving the shoes a sculpted look.",
+                    "technique": null,
+                    "renditionnumber": "DDC231470",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC231470_dynmc",
+                    "alttext": "Still life of three pairs of worn black shoes sitting diagonally in a row on a white cloth.",
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/45443484",
+                    "height": 1735
+                },
+                {
+                    "date": "2012-12-04",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 417406,
+                    "idsid": 45443486,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "DDC245367",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC245367_dynmc",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/45443486",
+                    "height": 1931
+                },
+                {
+                    "date": "1997-03-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 126173,
+                    "idsid": 43181794,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak EPY",
+                    "renditionnumber": "18663",
+                    "displayorder": 3,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:18663_dynmc",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/43181794",
+                    "height": 1743
+                },
+                {
+                    "date": "1987-04-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 129956,
+                    "idsid": 20681037,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Super XX",
+                    "renditionnumber": "45516",
+                    "displayorder": 4,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS45516_dynmc",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20681037",
+                    "height": 1750
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "248",
+                    "worktype": "painting"
+                }
+            ],
+            "imagecount": 4,
+            "totalpageviews": 13200,
+            "accessionyear": 1951,
+            "standardreferencenumber": null,
+            "signed": "incised at l.c.: Vincent",
+            "classification": "Paintings",
+            "relatedcount": 2,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC231470_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:15-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Oil on canvas",
+            "lendingpermissionlevel": 1,
+            "title": "Three Pairs of Shoes",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#321919",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.28967320261437907,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.2815032679738562,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.2,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.13104575163398693,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.09732026143790849,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.00045751633986928104,
+                    "css3": "#c0c0c0"
+                }
+            ],
+            "provenance": "Vincent van Gogh; ? to his nephew Vincent Willem van Gogh; ?  to his mother Mme. Johanna van Gogh-Bonger, sold; [through Drouot, Paris, 1920, no. 62]; [to Joseph Hessel Art Gallery, Paris] (1920-1925) sold; to Marcel Kapferer, 1925-1943, sold; [through Wildenstein, New York]; to Maurice Wertheim, New York (1943-1951) bequest; to Fogg Art Museum 1951.\r\n\r\nNotes:\r\nAccording to his daughter, in about 1939 Kapferer gave this painting and three others to Wildenstein to be sent to their New York offices,(inventory KR 10.) He later consigned them for sale.\r\n\r\n\r\n",
+            "groupcount": 1,
+            "dated": "1886-1887",
+            "department": "Department of Paintings, Sculpture & Decorative Arts",
+            "dateend": 1887,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": null,
+                    "culture": "Dutch",
+                    "displayname": "Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/228744",
+            "dateoffirstpageview": "2009-05-12",
+            "century": "19th century",
+            "objectnumber": "1951.66",
+            "labeltext": "Made at a time when Van Gogh was deeply engaged with still life, this composition is painted over another image of a large bouquet of flowers in a vase. It is one of a series of five paintings of shoes by the artist. Their arrangement in a diagonal line lends the scene a sense of balance, while the playful individuality of each boot adds rhythmic movement to the composition. Placed on a white cloth, the shoes operate within the still life tradition, but the distinctive character of each one, and their recognizable identity as part of the attire of Parisian laborers, evokes comparisons to portraiture. The figural aspects of the shoes are enhanced by Van Gogh’s singular application of paint, notably the sculptural impasto, which gives vitality to details such as the nail heads in the heel of the central shoe.",
+            "datebegin": 1886,
+            "culture": "Dutch",
+            "exhibitioncount": 27,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 228744,
+            "techniqueid": null,
+            "dimensions": "49.8 x 72.5 cm (19 5/8 x 28 9/16 in.)\r\nframed: 72.2 x 95.5 x 6.5 cm (28 7/16 x 37 5/8 x 2 9/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/228744",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest of Annie Swan Coburn",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-03",
+            "classificationid": 26,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 15,
+            "totaluniquepageviews": 2532,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 9,
+            "rank": 60259,
+            "id": 230942,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2002-10-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 53131,
+                    "idsid": 17388673,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "53534",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:53534_dynmc",
+                    "alttext": null,
+                    "width": 793,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/17388673",
+                    "height": 1024
+                },
+                {
+                    "date": null,
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 467852,
+                    "idsid": 425332529,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Nitrate",
+                    "renditionnumber": "245063",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS245063",
+                    "alttext": null,
+                    "width": 1958,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/425332529",
+                    "height": 2550
+                },
+                {
+                    "date": "2008-04-11",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 300401,
+                    "idsid": 20490390,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "INV184941",
+                    "displayorder": 3,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV184941_dynmc",
+                    "alttext": null,
+                    "width": 889,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20490390",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "248",
+                    "worktype": "painting"
+                }
+            ],
+            "imagecount": 3,
+            "totalpageviews": 3052,
+            "accessionyear": 1934,
+            "standardreferencenumber": null,
+            "signed": "\r\n",
+            "classification": "Paintings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:53534_dynmc",
+            "titlescount": 2,
+            "peoplecount": 3,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:18-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Oil on canvas",
+            "lendingpermissionlevel": 0,
+            "title": "Self-portrait with a Bandaged Ear and Pipe",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.288735632183908,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#644b4b",
+                    "spectrum": "#8362aa",
+                    "hue": "Brown",
+                    "percent": 0.20080459770114942,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.14862068965517242,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.09586206896551724,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b3232",
+                    "spectrum": "#4ab851",
+                    "hue": "Red",
+                    "percent": 0.09333333333333334,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#af9664",
+                    "spectrum": "#e9715f",
+                    "hue": "Yellow",
+                    "percent": 0.08247126436781609,
+                    "css3": "#bdb76b"
+                },
+                {
+                    "color": "#c8af7d",
+                    "spectrum": "#e9715f",
+                    "hue": "Brown",
+                    "percent": 0.0464367816091954,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#c8c896",
+                    "spectrum": "#a9cf38",
+                    "hue": "Green",
+                    "percent": 0.022011494252873562,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#321919",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.021724137931034483,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": "[Otto Wacker Art Gallery, Berlin], sold; to private collector, Switzerland, sold; to [Wildenstein & Co., New York], sold; to Annie Swan Coburn, Chicago, 1927, bequest; to Fogg Art Museum, 1934",
+            "groupcount": 0,
+            "dated": "1889",
+            "department": "Department of Paintings, Sculpture & Decorative Arts",
+            "dateend": 1889,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": null,
+                    "prefix": null,
+                    "culture": null,
+                    "displayname": "Unidentified Artist",
+                    "alphasort": "Unidentified artist",
+                    "name": "Unidentified Artist",
+                    "personid": 34147,
+                    "deathplace": null,
+                    "displayorder": 1
+                },
+                {
+                    "role": "Alternative attribution",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": "Imitator of",
+                    "culture": "Dutch",
+                    "displayname": "Imitator of Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 2
+                },
+                {
+                    "role": "Previous attribution",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": "Previously attributed to",
+                    "culture": "Dutch",
+                    "displayname": "Previously attributed to Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 3
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/230942",
+            "dateoffirstpageview": "2009-05-25",
+            "century": "19th century",
+            "objectnumber": "1934.35",
+            "labeltext": null,
+            "datebegin": 1889,
+            "culture": "Dutch",
+            "exhibitioncount": 7,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 230942,
+            "techniqueid": null,
+            "dimensions": "43.18 x 33.34 cm (17 x 13 1/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/230942",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, William M. Prichard Fund",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-31",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 2,
+            "totaluniquepageviews": 231,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 7,
+            "rank": 224726,
+            "id": 250876,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2008-02-28",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 292685,
+                    "idsid": 20435234,
+                    "format": "image/jpeg",
+                    "description": "The man sits outside with the suggestion of a fence and garden behind him. He has thick wavy hair with a receding hairline, moustache and slight goatee, closed mouth as his hand holds the pipe, probably resting on his elbow outside the frame. His pensive eyes look past us, his eyebrows are slightly raised, with wrinkled forehead, may suggest slight weariness. He’s drawn close by, as if in conversation with us. Lines and textures form the shape of the face and jacket.",
+                    "technique": null,
+                    "renditionnumber": "INV178033",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV178033_dynmc",
+                    "alttext": "Portrait of a man leaning in slightly from the right, holding a pipe in his right hand.",
+                    "width": 733,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20435234",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 300,
+            "accessionyear": 1953,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV178033_dynmc",
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:01:41-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Dr. Gachet",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.874828660436137,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.044922118380062305,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.041557632398753895,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.028473520249221184,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.0097196261682243,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.00043613707165109035,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#e1967d",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.00006230529595015576,
+                    "css3": "#e9967a"
+                }
+            ],
+            "provenance": "[Klipstein et Cie, Bern], sold [possibly through Richard Zinser, New York]; to Fogg Art Museum, 1953",
+            "groupcount": 0,
+            "dated": "1890",
+            "department": "Department of Prints",
+            "dateend": 1890,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": null,
+                    "culture": "Dutch",
+                    "displayname": "Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/250876",
+            "dateoffirstpageview": "2009-05-12",
+            "century": "19th century",
+            "objectnumber": "M12843",
+            "labeltext": null,
+            "datebegin": 1890,
+            "culture": "French",
+            "exhibitioncount": 1,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 250876,
+            "techniqueid": 116,
+            "dimensions": "plate: 18.2 x 15.2 cm (7 3/16 x 6 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/250876",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Jacques Villon / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest of Howard S. Gans",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-15",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 155,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 224054,
+            "id": 272584,
+            "state": null,
+            "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 230,
+            "accessionyear": 1947,
+            "standardreferencenumber": "A&P. 520",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 2,
+            "primaryimageurl": null,
+            "titlescount": 2,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2024-05-04T05:02:05-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Aquatint",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "The Farmer",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.586610644257703,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.2007282913165266,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#324b64",
+                    "spectrum": "#4072b8",
+                    "hue": "Blue",
+                    "percent": 0.1438095238095238,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#c8af7d",
+                    "spectrum": "#e9715f",
+                    "hue": "Brown",
+                    "percent": 0.03058823529411765,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.017254901960784313,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#647d7d",
+                    "spectrum": "#6c6ab0",
+                    "hue": "Blue",
+                    "percent": 0.008515406162464986,
+                    "css3": "#708090"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.005658263305322129,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#c87d64",
+                    "spectrum": "#e66c64",
+                    "hue": "Orange",
+                    "percent": 0.0038095238095238095,
+                    "css3": "#cd5c5c"
+                },
+                {
+                    "color": "#af644b",
+                    "spectrum": "#e0626d",
+                    "hue": "Orange",
+                    "percent": 0.0017366946778711485,
+                    "css3": "#cd5c5c"
+                },
+                {
+                    "color": "#af4b32",
+                    "spectrum": "#d75776",
+                    "hue": "Orange",
+                    "percent": 0.0010084033613445378,
+                    "css3": "#a0522d"
+                }
+            ],
+            "provenance": "Estate of Howard S. Gans, bequest; to Fogg Art Museum, June 18, 1947.",
+            "groupcount": 0,
+            "dated": "1927",
+            "department": "Department of Prints",
+            "dateend": 1927,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Damville, France",
+                    "gender": "male",
+                    "displaydate": "1875 - 1963",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Jacques Villon",
+                    "alphasort": "Villon, Jacques",
+                    "name": "Jacques Villon",
+                    "personid": 29229,
+                    "deathplace": "Puteaux, France",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Artist after",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": "After",
+                    "culture": "Dutch",
+                    "displayname": "After Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/272584",
+            "dateoffirstpageview": "2009-05-23",
+            "century": "20th century",
+            "objectnumber": "M12095",
+            "labeltext": null,
+            "datebegin": 1927,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 272584,
+            "techniqueid": 783,
+            "dimensions": null,
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/272584",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest of Meta and Paul J. Sachs",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-03",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 12,
+            "totaluniquepageviews": 978,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 9,
+            "rank": 86983,
+            "id": 296533,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2021-05-27",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 514893,
+                    "idsid": 492070777,
+                    "format": "image/jpeg",
+                    "description": "\r\nThis drawn portrait in monochrome shows an older man in three-quarters view. His face is wrinkled and his hair is gray. He wears several black garments: eye patch; top hat; bow tie; waistcoat; and overcoat. On one lapel he displays a medal. ",
+                    "technique": "Make:SONY;Model:ILCE-7RM4;Orientation:1;Software:Adobe Photoshop 22.3 (Macintosh);",
+                    "renditionnumber": "775172",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:775172",
+                    "alttext": "\r\nA monochrome portrait of a man with an eyepatch.",
+                    "width": 1540,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/492070777",
+                    "height": 2550
+                },
+                {
+                    "date": null,
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 31099,
+                    "idsid": 424454638,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Nitrate",
+                    "renditionnumber": "41918",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS41918",
+                    "alttext": null,
+                    "width": 1513,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/424454638",
+                    "height": 2550
+                },
+                {
+                    "date": "2013-02-14",
+                    "copyright": null,
+                    "imageid": 425443,
+                    "idsid": 45614944,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "STR011332",
+                    "displayorder": 3,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:huam:STR011332_dynmc",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": "beta-radiograph of watermark",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/45614944",
+                    "height": 1285
+                },
+                {
+                    "date": "1999-08-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 33066,
+                    "idsid": 20681094,
+                    "format": "image/jpeg",
+                    "description": "The man’s left eye is covered by a dark eyepatch that looks hand made with stitching evident, it covers his eye and cheekbone. His face is wrinkled and chiseled, and his mouth puckered around the short cigar between his lips. He wears a top hat with grey hair showing above the ear and bow tie. A military cross medal on a striped ribbon is pinned on the left side lapel of his dark jacket. His gaze is past us, looking to the left. Light and dark lines give the portrait presence, depth, and drama.",
+                    "technique": "Kodak EPY",
+                    "renditionnumber": "45707",
+                    "displayorder": 4,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS45707_dynmc",
+                    "alttext": "Three quarter view portrait of an older man facing left, smoking a cigar and wearing an eye patch.",
+                    "width": 1541,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20681094",
+                    "height": 2550
+                },
+                {
+                    "date": null,
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 37798,
+                    "idsid": 20684768,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Commercial 4127",
+                    "renditionnumber": "81350",
+                    "displayorder": 5,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS81350_dynmc",
+                    "alttext": null,
+                    "width": 825,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20684768",
+                    "height": 1024
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 5,
+            "totalpageviews": 1247,
+            "accessionyear": 1965,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:775172",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:02:31-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Graphite, brown ink, black ink and wash, white gouache on heavily textured white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "The Wounded Veteran",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.4757777777777778,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.24207407407407408,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.10266666666666667,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d6464",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Brown",
+                    "percent": 0.08896296296296297,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.029111111111111112,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#967d7d",
+                    "spectrum": "#955ba5",
+                    "hue": "Brown",
+                    "percent": 0.028444444444444446,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.013703703703703704,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.011037037037037036,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.008222222222222223,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": "Richard Bühler. [Paul Rosenberg, Paris]. [Graphisches Kabinett, Munich], sold; to Meta and Paul J. Sachs, Cambridge, Massachusetts, 1928, bequest; to Fogg Art Museum, 1965",
+            "groupcount": 0,
+            "dated": "c. 1882-1883",
+            "department": "Department of Drawings",
+            "dateend": 1883,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": null,
+                    "culture": "Dutch",
+                    "displayname": "Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/296533",
+            "dateoffirstpageview": "2009-05-12",
+            "century": "19th century",
+            "objectnumber": "1965.289",
+            "labeltext": null,
+            "datebegin": 1882,
+            "culture": "Dutch",
+            "exhibitioncount": 5,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 296533,
+            "techniqueid": null,
+            "dimensions": "46 × 27.5 cm (18 1/8 × 10 13/16 in.)\r\nframed: 62.5 × 46.4 × 1.9 cm (24 5/8 × 18 1/4 × 3/4 in.)\r\nmat: 58.1 × 41.9 cm (22 7/8 × 16 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/296533",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of N. J. Streep",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-17",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 264,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 83628,
+            "id": 297251,
+            "state": null,
+            "verificationleveldescription": "Unchecked. Object information has not been verified for completeness and has not been vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "1966-05-20",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 31916,
+                    "idsid": 20680381,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Safety Film",
+                    "renditionnumber": "43777",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS43777_dynmc",
+                    "alttext": null,
+                    "width": 1024,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20680381",
+                    "height": 725
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 349,
+            "accessionyear": 1960,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 0,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS43777_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:02:32-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Landscape",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#fafafa",
+                    "spectrum": "#955ba5",
+                    "hue": "White",
+                    "percent": 0.3730188679245283,
+                    "css3": "#fffafa"
+                },
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.1311949685534591,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.11213836477987421,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.0709433962264151,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.0640251572327044,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.054465408805031444,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.052452830188679245,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.052389937106918236,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#000000",
+                    "spectrum": "#1eb264",
+                    "hue": "Black",
+                    "percent": 0.049874213836477985,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.03949685534591195,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "19th century",
+            "department": "Department of Drawings",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": "Imitator of",
+                    "culture": "Dutch",
+                    "displayname": "Imitator of Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/297251",
+            "dateoffirstpageview": "2009-05-23",
+            "century": "19th century",
+            "objectnumber": "1960.1",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "Dutch",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 297251,
+            "techniqueid": null,
+            "dimensions": null,
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/297251",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest from the Collection of Maurice Wertheim, Class of 1906",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-03",
+            "classificationid": 26,
+            "division": "European and American Art",
+            "markscount": 22,
+            "publicationcount": 216,
+            "totaluniquepageviews": 44962,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 466,
+            "id": 299843,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2013-10-07",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 429030,
+                    "idsid": 47174896,
+                    "format": "image/jpeg",
+                    "description": "The man (Vincent Van Gogh) has painted himself off center from the left, turned three-quarter view facing right, looking straight ahead. He’s fair skinned with close cropped auburn hair, short beard and moustache, closed lips, intense deep-set green eyes, and chiseled features. He wears a brown vest and jacket, white shirt underneath with a large brown button in the center, and no tie. The aqua green background color is subtly worked into the shadows of the skin tones and shirt. Van Gogh’s energetic brush strokes are rich with colors and textures and follow the surfaces of every shape in the painting.",
+                    "technique": null,
+                    "renditionnumber": "DDC251942",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC251942_dynmc",
+                    "alttext": "Self-portrait of a man off center and facing right against a vibrant aqua green background.",
+                    "width": 2087,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/47174896",
+                    "height": 2550
+                },
+                {
+                    "date": "2006-05-22",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 185978,
+                    "idsid": 18737483,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "DDC000072",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC000072_dynmc",
+                    "alttext": null,
+                    "width": 2088,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18737483",
+                    "height": 2550
+                },
+                {
+                    "date": "2013-10-07",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 429028,
+                    "idsid": 47174892,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "DDC251934",
+                    "displayorder": 3,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC251934_dynmc",
+                    "alttext": null,
+                    "width": 2259,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/47174892",
+                    "height": 2550
+                },
+                {
+                    "date": "1996-12-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 25781,
+                    "idsid": 43182083,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak EPY",
+                    "renditionnumber": "30033",
+                    "displayorder": 4,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:30033_dynmc",
+                    "alttext": null,
+                    "width": 2100,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/43182083",
+                    "height": 2550
+                },
+                {
+                    "date": "2000-06-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 19801,
+                    "idsid": 43183405,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Fuji RDP III",
+                    "renditionnumber": "50493",
+                    "displayorder": 5,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:50493_dynmc",
+                    "alttext": null,
+                    "width": 2082,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/43183405",
+                    "height": 2550
+                },
+                {
+                    "date": "2000-06-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 42292,
+                    "idsid": 43183422,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Ektapan",
+                    "renditionnumber": "50849",
+                    "displayorder": 6,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:50849_dynmc",
+                    "alttext": null,
+                    "width": 2093,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/43183422",
+                    "height": 2550
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "248",
+                    "worktype": "painting"
+                }
+            ],
+            "imagecount": 6,
+            "totalpageviews": 54004,
+            "accessionyear": 1951,
+            "standardreferencenumber": null,
+            "signed": "red paint, l.r.: Vincent/Arles",
+            "classification": "Paintings",
+            "relatedcount": 2,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC251942_dynmc",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:02:35-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Oil on canvas",
+            "lendingpermissionlevel": 1,
+            "title": "Self-Portrait Dedicated to Paul Gauguin",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#64af7d",
+                    "spectrum": "#4fb94f",
+                    "hue": "Green",
+                    "percent": 0.30475409836065576,
+                    "css3": "#5f9ea0"
+                },
+                {
+                    "color": "#64c896",
+                    "spectrum": "#47b853",
+                    "hue": "Green",
+                    "percent": 0.2130601092896175,
+                    "css3": "#66cdaa"
+                },
+                {
+                    "color": "#323219",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.19956284153005466,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#7d7d4b",
+                    "spectrum": "#6cbd45",
+                    "hue": "Green",
+                    "percent": 0.05639344262295082,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b9664",
+                    "spectrum": "#3db657",
+                    "hue": "Green",
+                    "percent": 0.055245901639344265,
+                    "css3": "#2e8b57"
+                },
+                {
+                    "color": "#969664",
+                    "spectrum": "#84c441",
+                    "hue": "Green",
+                    "percent": 0.04355191256830601,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afaf7d",
+                    "spectrum": "#9ecb3b",
+                    "hue": "Green",
+                    "percent": 0.03546448087431694,
+                    "css3": "#bdb76b"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.03486338797814208,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#644b19",
+                    "spectrum": "#64bc46",
+                    "hue": "Orange",
+                    "percent": 0.031311475409836066,
+                    "css3": "#8b4513"
+                },
+                {
+                    "color": "#c8c87d",
+                    "spectrum": "#b0d136",
+                    "hue": "Green",
+                    "percent": 0.017814207650273223,
+                    "css3": "#d2b48c"
+                }
+            ],
+            "provenance": "Vincent van Gogh, Arles, (1888,) gift;  to Paul Gauguin, (1888-1897) sold. [Ambroise Vollard, Paris.] [Paul Cassirer Gallery, Berlin.] Dr. Hugo von Tschudi, Berlin and then Munich by c. 1909 (1906-1911), by descent; to his widow, Angela von Tschudi, Munich (1911-1919),  to Neue Staatsgalerie, Munich (1919-1938); removed from the collection by the National Socialist (Nazi) authorities in 1938, (EK16554) consigned; to [Theodor Fischer Gallery, Lucerne, Switzerland, for sale June 30, 1939, lot 45]; to Maurice Wertheim (1939-1951) bequest; to Fogg Art Museum, 1951.\r\n\r\n \r\n\r\nNotes:\r\nGauguin sold the painting for Fr 300; this might be noted in Judith Gerard, \"Absence de Gauguin\", a 1953 typescript seen by Jirit-Wasiutynski (see 1984 Fogg/Straus study note 46)\r\nHugo von Tschudi bought the painting for the Nationalgalerie, Berlin, with funds from sponsors, but did not submit it to the Kaiser for pre-approval. He took the painting to Munich when he assumed a post there.\r\nAccording to Stephanie Barron, the van Gogh was removed from the Neue Staatsgalerie on March 27, 1938 and stored at Schloss Niederschönhausen in August of that year. (Barron, 1991, pp. 135-146)\r\n\r\n",
+            "groupcount": 3,
+            "dated": "1888",
+            "department": "Department of Paintings, Sculpture & Decorative Arts",
+            "dateend": 1888,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": null,
+                    "culture": "Dutch",
+                    "displayname": "Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/299843",
+            "dateoffirstpageview": "2009-05-12",
+            "century": "19th century",
+            "objectnumber": "1951.65",
+            "labeltext": "In early 1888, Van Gogh moved to Arles in the south of France, where he hoped to establish an art colony. Believing that painting could be reinvented through the genre of portraiture, he encouraged his fellow artists to paint themselves, and then to exchange the canvases. After receiving self-portraits from Emile Bernard and Gauguin, who were working together in Brittany at the time, Van Gogh inscribed this painting “To my friend Paul Gauguin,” and sent it to him. He described the process of creating his arresting likeness in several letters to his brother Theo, an art dealer in Paris, explaining how he manipulated his features in response to Japanese prints, changed the contours of his jacket for coloristic effect, and painted the background “pale veronese green” without any shadows. Shortly after he sent the work to Gauguin, however, their friendship deteriorated, and Gauguin sold it for three hundred francs.",
+            "datebegin": 1888,
+            "culture": "Dutch",
+            "exhibitioncount": 26,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 299843,
+            "techniqueid": null,
+            "dimensions": "61.5 x 50.3 cm (24 3/16 x 19 13/16 in.)\r\nframed: 90.4 x 79.7 x 8.3 cm (35 9/16 x 31 3/8 x 3 1/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/299843",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-01",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 37,
+            "totaluniquepageviews": 2596,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 68852,
+            "id": 299927,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2001-06-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 20053,
+                    "idsid": 17387739,
+                    "format": "image/jpeg",
+                    "description": "Harvest has happened in this placid scene, as evident by a haystack and ladder on the left. The blue cart on wheels is without horse or farmer, an unmanned plow rests towards the right. The peaceful scene is drawn with varying textures that define fields and create depth. A few small houses dot the landscape, there’s a sketchy suggestion of two people in the distance. A reed-like fence creates a diagonal boundary between the grassy foreground and rural setting behind it. Hills are suggested in the background, the sky is made of white textures indicating overcast weather.",
+                    "technique": null,
+                    "renditionnumber": "51635",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:51635_dynmc",
+                    "alttext": "A rural landscape scene of flat farm fields with an unmanned cart in the center.　",
+                    "width": 1024,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/17387739",
+                    "height": 766
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 3281,
+            "accessionyear": 1943,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:51635_dynmc",
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:02:35-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Graphite, black chalk, oil pastel(?), brown ink, watercolor, and gouache on tan laid paper",
+            "lendingpermissionlevel": 2,
+            "title": "The Blue Cart",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.24136904761904762,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.21511904761904763,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.1969642857142857,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#e1c8c8",
+                    "spectrum": "#c15689",
+                    "hue": "Orange",
+                    "percent": 0.1674404761904762,
+                    "css3": "#d8bfd8"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.12583333333333332,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.04779761904761905,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b7d4b",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.003869047619047619,
+                    "css3": "#2e8b57"
+                },
+                {
+                    "color": "#19964b",
+                    "spectrum": "#1eb264",
+                    "hue": "Green",
+                    "percent": 0.0013095238095238095,
+                    "css3": "#2e8b57"
+                },
+                {
+                    "color": "#007d32",
+                    "spectrum": "#1eb264",
+                    "hue": "Green",
+                    "percent": 0.00017857142857142857,
+                    "css3": "#228b22"
+                },
+                {
+                    "color": "#64af7d",
+                    "spectrum": "#4fb94f",
+                    "hue": "Green",
+                    "percent": 0.00011904761904761905,
+                    "css3": "#5f9ea0"
+                }
+            ],
+            "provenance": "Wilhelmina van Gogh. [Artz en De Bois, The Hague, July-September 1912]; Erich Schall, Berlin. P. Seligmann, Cologne. F. Haniel, Wistinghausen. [Wildenstein and Co., New York, 30 November 1931], sold; to Grenville L. Winthrop, New York, bequest; to the Fogg Art Museum, 1943.",
+            "groupcount": 0,
+            "dated": "1888",
+            "department": "Department of Drawings",
+            "dateend": 1888,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": null,
+                    "culture": "Dutch",
+                    "displayname": "Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/299927",
+            "dateoffirstpageview": "2009-05-12",
+            "century": "19th century",
+            "objectnumber": "1943.279",
+            "labeltext": null,
+            "datebegin": 1888,
+            "culture": "Dutch",
+            "exhibitioncount": 6,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 299927,
+            "techniqueid": null,
+            "dimensions": "39.4 x 52.3 cm (15 1/2 x 20 9/16 in.)\r\nframe: 63.5 × 75.6 cm (25 × 29 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/299927",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-03",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 3,
+            "publicationcount": 56,
+            "totaluniquepageviews": 2697,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 9,
+            "rank": 419,
+            "id": 299938,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2001-03-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 16797,
+                    "idsid": 17386572,
+                    "format": "image/jpeg",
+                    "description": "The man looks directly and intensely at us, his face has strong rugged features, a closed mouth, and broad nose, his ears appear slightly uneven on his head. Van Gogh’s ink strokes are similar to his paintings: short cross hatches, lines, and energetic dots to convey energy and texture. The lines and textures vary from light to dark to form the shape of the face. The hat and jacket have less definition and more blank space, drawing attention the face. The background is a series of uneven small dots scattered over the entire surface of the paper.",
+                    "technique": null,
+                    "renditionnumber": "51273",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:51273_dynmc",
+                    "alttext": "Head and shoulders portrait of a man facing us and wearing a hat and jacket.",
+                    "width": 1969,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/17386572",
+                    "height": 2550
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 3363,
+            "accessionyear": 1943,
+            "standardreferencenumber": null,
+            "signed": "brown ink, l.l.: Vincent",
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:51273_dynmc",
+            "titlescount": 3,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:02:35-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Brown ink over graphite on white wove paper",
+            "lendingpermissionlevel": 2,
+            "title": "Peasant of the Camargue",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.26371014492753625,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.20753623188405798,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.18469565217391304,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#fae1e1",
+                    "spectrum": "#e76d63",
+                    "hue": "Red",
+                    "percent": 0.1701449275362319,
+                    "css3": "#ffe4e1"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.08069565217391304,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.04794202898550725,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.029971014492753623,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.009217391304347827,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.00608695652173913,
+                    "css3": "#556b2f"
+                }
+            ],
+            "provenance": "Mrs. J. van Gogh-Bonger, Amsterdam. Klas Fähraeus, Lindingö-Brevik, 1911. Thorsten Laurin, Stockholm. Grenville L. Winthrop, New York, New York (acquired in Paris through Martin Birnbaum), March 1931, bequest; to the Fogg Art Museum, 1943.",
+            "groupcount": 2,
+            "dated": "1888",
+            "department": "Department of Drawings",
+            "dateend": 1888,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": null,
+                    "culture": "Dutch",
+                    "displayname": "Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/299938",
+            "dateoffirstpageview": "2009-05-16",
+            "century": "19th century",
+            "objectnumber": "1943.515",
+            "labeltext": null,
+            "datebegin": 1888,
+            "culture": "Dutch",
+            "exhibitioncount": 6,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 299938,
+            "techniqueid": null,
+            "dimensions": "49.4 x 38 cm (19 7/16 x 14 15/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/299938",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Straus Center for Conservation and Technical Studies, Alan Burroughs Collection of X-Radiographs",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-24",
+            "classificationid": 17,
+            "division": null,
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 26,
+            "contact": "am_straus@harvard.edu",
+            "colorcount": 0,
+            "rank": 277195,
+            "id": 343825,
+            "state": null,
+            "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+            "period": null,
+            "worktypes": [
+                {
+                    "worktypeid": "410",
+                    "worktype": "x-radiograph"
+                },
+                {
+                    "worktypeid": "266",
+                    "worktype": "photograph"
+                }
+            ],
+            "imagecount": 0,
+            "totalpageviews": 30,
+            "accessionyear": null,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Photographs",
+            "relatedcount": 0,
+            "verificationlevel": 2,
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-04T05:03:20-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": "X-Radiograph Description: Negative\r\n\r\nBurroughs Number: 0126\r\n\r\nX-Radiograph(s) of: \r\nArtist: Gogh, Vincent van, Dutch, 1853-1890\r\nTitle: Old Shoes\r\nOwner: Through David Rosen\r\n",
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "X-radiograph(s) of \"Old Shoes\"",
+            "accessionmethod": "Not Recorded",
+            "provenance": null,
+            "groupcount": 1,
+            "dated": null,
+            "department": "Straus Center for Conservation and Technical Studies",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Related name",
+                    "birthplace": "Groot Zundert (Zundert), The Netherlands",
+                    "gender": "male",
+                    "displaydate": "1853 - 1890",
+                    "prefix": "Artist of original:",
+                    "culture": "Dutch",
+                    "displayname": "Artist of original: Vincent van Gogh",
+                    "alphasort": "Gogh, Vincent van",
+                    "name": "Vincent van Gogh",
+                    "personid": 22730,
+                    "deathplace": "Auvers-sur-Oise, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/343825",
+            "dateoffirstpageview": "2017-08-03",
+            "century": null,
+            "objectnumber": "Straus.4332",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": null,
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 343825,
+            "techniqueid": null,
+            "dimensions": null
+        }
+    ]

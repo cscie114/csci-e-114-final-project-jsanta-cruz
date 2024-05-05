@@ -16,15 +16,13 @@ const GalleryPage = ({ data }) => {
       display: "flex",
       flexDirection: "row",
       flexWrap: "wrap",
-      listStyle: "none",
-
-      
+      listStyle: "none",    
     },
 
   };
 
   return (
-    <div>
+    <>
       <Layout pageTitle="All Images">
         <ul style={styles.galleryImg}>
           {images?.map((img, i) => {
@@ -47,7 +45,7 @@ const GalleryPage = ({ data }) => {
         </ul>
       </Layout>
       <Footer />
-    </div>
+    </>
   );
 };
 

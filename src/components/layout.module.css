@@ -5,6 +5,12 @@ body {
 
 }
 
+#target {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
 .nav ul {
     display: unset;
     list-style: none;
