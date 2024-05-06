@@ -1,20 +1,10 @@
 import * as React from "react";
-import { Link, graphql, useStaticQuery } from "gatsby";
+import { Link } from "gatsby";
 import { StaticImage } from 'gatsby-plugin-image';
 import { nav, target } from './layout.module.css';
 
 const Layout = ({ pageTitle, children }) => {
 
-    // Get the site title (data from gatsby-config.js)
-    const data = useStaticQuery(graphql`
-    query {
-    site {
-        siteMetadata {
-            title
-        }
-    }
-    }
-`)
 return (
 <div>
   <header>

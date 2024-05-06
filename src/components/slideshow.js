@@ -1,10 +1,8 @@
 import * as React from "react"
-import { graphql } from "gatsby"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Slider from "react-slick"
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import  {objectContain, objectScaleDown, imageBG, slickArrow, slickPrev} from "./slideshow.module.css"
+import  { objectContain, imageBG } from "./slideshow.module.css"
 
 const settings = {
   autoPlay: true,

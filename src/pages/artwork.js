@@ -2,10 +2,8 @@ import * as React from "react";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Footer from "../components/footer";
-import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import SliderCarousel from "../components/slideshow";
 import {objectContain} from "../components/slideshow.module.css"
 
 const GalleryPage = (props) => {
@@ -26,8 +24,8 @@ const GalleryPage = (props) => {
         <ul style={styles.galleryImg}>
           {artwork?.map((art, i) => {
             return (
-              <li width={200}>
-                <div key={i} width={200}>
+              <li key={i} width={200}>
+                <div  width={200}>
                 <Link to={"/artwork/" + art?.imageid}>
                   <img style={styles.imgList}
                   className={objectContain}

@@ -1,9 +1,7 @@
 import * as React from "react";
-// import { useState } from "react";
+import { graphql } from "gatsby";
 import { createRoot } from "react-dom/client";
-import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
-import Footer from "../components/footer";
 import { StaticImage } from "gatsby-plugin-image";
 
 const ArtistPage = (props) => {
@@ -49,18 +47,11 @@ const ArtistPage = (props) => {
               <ul style={styles.galleryImg}>
                 {vanGogh?.map((img, i) => {
                   return (
-                    <li width={200}>
-                      <div key={i} width={200}>
-                        {/* <img
-                          loading="lazy"
-                          src={img?.primaryimageurl}
-                          width={200}
-                          height={200}
-                          alt={img?.title}
-                        /> */}
-                        {img?.images?.map((img) => {
+                    <li key={i} width={200}>
+                      <div  width={200}>
+                        {img?.images?.map((img, i) => {
                           return (
-                            <img
+                            <img key={i}
                               loading="lazy"
                               src={img?.baseimageurl}
                               width={200}
@@ -95,11 +86,11 @@ const ArtistPage = (props) => {
               <ul style={styles.galleryImg}>
                 {kirchner?.map((img, i) => {
                   return (
-                    <li width={200}>
-                      <div key={i} width={200}>
-                        {img?.images?.map((img) => {
+                    <li key={i} width={200}>
+                      <div width={200}>
+                        {img?.images?.map((img, i) => {
                           return (
-                            <img
+                            <img key={i}
                               loading="lazy"
                               src={img?.baseimageurl}
                               width={200}
@@ -134,11 +125,11 @@ const ArtistPage = (props) => {
               <ul style={styles.galleryImg}>
                 {sargent?.map((img, i) => {
                   return (
-                    <li width={200}>
-                      <div key={i} width={200}>
+                    <li key={i} width={200}>
+                      <div width={200}>
                         {img?.images?.map((img) => {
                           return (
-                            <img
+                            <img key={i}
                               loading="lazy"
                               src={img?.baseimageurl}
                               width={200}
