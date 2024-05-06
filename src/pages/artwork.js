@@ -8,9 +8,8 @@ import "slick-carousel/slick/slick-theme.css";
 import SliderCarousel from "../components/slideshow";
 import {objectContain} from "../components/slideshow.module.css"
 
-const GalleryPage = ({ data }) => {
-  const images = data.allGalleryJson.nodes;
-  // const image = getImage(data.allImages.nodes?.baseimageurl)
+const GalleryPage = (props) => {
+  const artwork = props.data.allGalleryJson.nodes;
   const styles = {
     galleryImg: {
       display: "flex",
@@ -25,19 +24,21 @@ const GalleryPage = ({ data }) => {
     <>
       <Layout pageTitle="All Images">
         <ul style={styles.galleryImg}>
-          {images?.map((img, i) => {
+          {artwork?.map((art, i) => {
             return (
               <li width={200}>
                 <div key={i} width={200}>
+                <Link to={"/artwork/" + art?.imageid}>
                   <img style={styles.imgList}
                   className={objectContain}
                     loading="lazy"
-                    src={img?.baseimageurl}
+                    src={art?.baseimageurl}
                     width={200} height={200}
-                    alt={img?.alttext}
+                    alt={art?.alttext}
                   />
-                  <p width={200}>{img?.caption}</p>
-                  <p width={200}>{img?.alttext}</p>
+                  <p width={200}>{art?.caption}</p>
+                  <p width={200}>{art?.alttext}</p>
+                  </Link>
                 </div>
               </li>
             );

@@ -1,4 +1,5 @@
 import * as React from "react";
+// import { useState } from "react";
 import { createRoot } from "react-dom/client";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
@@ -6,6 +7,9 @@ import Footer from "../components/footer";
 import { StaticImage } from "gatsby-plugin-image";
 
 const ArtistPage = (props) => {
+
+  // const [state, setState] = useState();
+
   let vanGogh = props.data.allVanGoghJson.nodes;
   let kirchner = props.data.allKirchnerJson.nodes;
   let sargent = props.data.allSingerJson.nodes;
@@ -15,16 +19,28 @@ const ArtistPage = (props) => {
       display: "flex",
       flexDirection: "row",
       flexWrap: "wrap",
-      listStyle: "none",    
+      listStyle: "none",
     },
-
+    artistImag: {
+      width: "200px"
+    },
+    btnStyle: {
+      display: "block"
+    },
+    articleStyle: {
+      display: "flex",
+      flexDirection: "row",
+      flexWrap: "wrap",
+    }
   };
   
   return (
     <>
       <Layout pageTitle="Josh's Final Project">
-        <StaticImage src="../images/van-gogh.webp"></StaticImage>
-        <button
+        <section style={styles.articleStyle}>
+        <article >
+        <StaticImage src="../images/van-gogh.webp" style={styles.artistImag}></StaticImage>
+        <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(
               document.getElementById("layout-module--target--ef9ac")
@@ -35,13 +51,25 @@ const ArtistPage = (props) => {
                   return (
                     <li width={200}>
                       <div key={i} width={200}>
-                        <img
+                        {/* <img
                           loading="lazy"
                           src={img?.primaryimageurl}
                           width={200}
                           height={200}
                           alt={img?.title}
-                        />
+                        /> */}
+                        {img?.images?.map((img) => {
+                          return (
+                            <img
+                              loading="lazy"
+                              src={img?.baseimageurl}
+                              width={200}
+                              height={200}
+                              data-img-id={img?.imageid}
+                              alt={img?.alttext}
+                            />
+                          );
+                        })}
                         <p width={200}>{img?.title}</p>
                         <p width={200}>{img?.description}</p>
                       </div>
@@ -55,8 +83,10 @@ const ArtistPage = (props) => {
         >
           Vincent Van Gogh
         </button>
-        <StaticImage src="../images/Kirchner.jpg"></StaticImage>
-        <button
+        </article>
+        <article >
+        <StaticImage src="../images/Kirchner.jpg" style={styles.artistImag}></StaticImage>
+        <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(
               document.getElementById("layout-module--target--ef9ac")
@@ -67,13 +97,18 @@ const ArtistPage = (props) => {
                   return (
                     <li width={200}>
                       <div key={i} width={200}>
-                        <img
-                          loading="lazy"
-                          src={img?.primaryimageurl}
-                          width={200}
-                          height={200}
-                          alt={img?.title}
-                        />
+                        {img?.images?.map((img) => {
+                          return (
+                            <img
+                              loading="lazy"
+                              src={img?.baseimageurl}
+                              width={200}
+                              height={200}
+                              data-img-id={img?.imageid}
+                              alt={img?.alttext}
+                            />
+                          );
+                        })}
                         <p width={200}>{img?.title}</p>
                         <p width={200}>{img?.description}</p>
                       </div>
@@ -87,8 +122,10 @@ const ArtistPage = (props) => {
         >
           Ernst Ludgwig Kirchner
         </button>
-        <StaticImage src="../images/sargent.jpeg"></StaticImage>
-        <button
+        </article>
+        <article >
+        <StaticImage src="../images/sargent.jpeg" style={styles.artistImag}></StaticImage>
+        <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(
               document.getElementById("layout-module--target--ef9ac")
@@ -99,13 +136,18 @@ const ArtistPage = (props) => {
                   return (
                     <li width={200}>
                       <div key={i} width={200}>
-                        <img
-                          loading="lazy"
-                          src={img?.primaryimageurl}
-                          width={200}
-                          height={200}
-                          alt={img?.title}
-                        />
+                        {img?.images?.map((img) => {
+                          return (
+                            <img
+                              loading="lazy"
+                              src={img?.baseimageurl}
+                              width={200}
+                              height={200}
+                              data-img-id={img?.imageid}
+                              alt={img?.alttext}
+                            />
+                          );
+                        })}
                         <p width={200}>{img?.title}</p>
                         <p width={200}>{img?.description}</p>
                       </div>
@@ -119,6 +161,8 @@ const ArtistPage = (props) => {
         >
           John Singer Sargent
         </button>
+        </article>
+        </section>
       </Layout>
     </>
   );

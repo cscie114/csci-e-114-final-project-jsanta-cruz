@@ -30,7 +30,7 @@ return (
           <Link to="/artists/">Featured Artists</Link>
         </li>
         <li>
-          <Link to="/gallery/">Gallery</Link>
+          <Link to="/artwork/">Gallery</Link>
         </li>
         <li>
           <Link to="/contact/">Contact Us</Link>
@@ -38,9 +38,10 @@ return (
       </ul>
     </nav>
   </header>
-  <main id={target}>
+  <main>
     <h2>{pageTitle}</h2>
     {children}
+    <div id={target}></div>
   </main>
 </div>
 );
