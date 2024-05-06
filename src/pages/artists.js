@@ -6,8 +6,6 @@ import { StaticImage } from "gatsby-plugin-image";
 
 const ArtistPage = (props) => {
 
-  // const [state, setState] = useState();
-
   let vanGogh = props.data.allVanGoghJson.nodes;
   let kirchner = props.data.allKirchnerJson.nodes;
   let sargent = props.data.allSingerJson.nodes;
