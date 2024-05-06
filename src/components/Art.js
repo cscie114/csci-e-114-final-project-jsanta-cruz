@@ -10,7 +10,6 @@ const Art = ({ art }) => {
           flexWrap: "wrap",
           listStyle: "none",    
         },
-    
       };
     return (
       <div>
