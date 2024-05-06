@@ -32,4 +32,5 @@ const Art = ({ art }) => {
     );
   };
   
+  
   export default Art;
