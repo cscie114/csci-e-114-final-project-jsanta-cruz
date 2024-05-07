@@ -23,18 +23,18 @@ jobs:
     - run: npm run lint
     - run: npm test
     - run: npm run build --if-present
-    # - name: Deploy GitHub Action to Netlify
-    #   uses: nwtgck/actions-netlify@v3.0
-    #   with:
-    #     publish-dir: 'public'
-    #     production-branch: main
-    #     github-token: ${{ secrets.GITHUB_TOKEN }}
-    #     deploy-message: "Deploy from GitHub Actions"
-    #   env:
-    #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-    #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-    #   timeout-minutes: 1
-    # - name: Install Netlify CLI
-    #   run: npm install netlify-cli
-    # - name: Deploy to Netlify using CLI
-    #   run: npx netlify deploy --site ${{ secrets.NETLIFY_SITE_ID }} --auth ${{ secrets.NETLIFY_AUTH_TOKEN }} --prod
+    - name: Deploy GitHub Action to Netlify
+      uses: nwtgck/actions-netlify@v3.0
+      with:
+        publish-dir: 'public'
+        production-branch: main
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        deploy-message: "Deploy from GitHub Actions"
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      timeout-minutes: 1
+    - name: Install Netlify CLI
+      run: npm install netlify-cli
+    - name: Deploy to Netlify using CLI
+      run: npx netlify deploy --site ${{ secrets.NETLIFY_SITE_ID }} --auth ${{ secrets.NETLIFY_AUTH_TOKEN }} --prod

@@ -18,13 +18,15 @@ exports.sourceNodes = async ({
       size: 100,
       page: 1,
       hasimage: 1,
-      century: "20th century"
+      century: "20th century",
+      keyword: "Modern Art",
+      classification: "Paintings"
     }
   
     let params = new URLSearchParams(requestParams);
     let queryString = params.toString();
   
-    let requestUrl = `${baseUrl}?${queryString}`;
+    let requestUrl = `${baseUrl}?${queryString}&q=_exists_:primaryimageurl`;
   
     console.log(requestUrl);
     const meta = {
