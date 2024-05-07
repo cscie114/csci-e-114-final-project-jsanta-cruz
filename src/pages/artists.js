@@ -29,13 +29,12 @@ const ArtistPage = (props) => {
       flexWrap: "wrap",
     }
   };
-  
   return (
     <>
       <Layout pageTitle="Josh's Final Project">
         <section style={styles.articleStyle}>
         <article >
-        <StaticImage src="../images/van-gogh.webp" style={styles.artistImag}></StaticImage>
+        <StaticImage src="../images/van-gogh.webp" height={300} style={styles.artistImag}></StaticImage>
         <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(
@@ -74,7 +73,7 @@ const ArtistPage = (props) => {
         </button>
         </article>
         <article >
-        <StaticImage src="../images/Kirchner.jpg" style={styles.artistImag}></StaticImage>
+        <StaticImage src="../images/Kirchner.jpg" height={300} style={styles.artistImag}></StaticImage>
         <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(
@@ -113,7 +112,7 @@ const ArtistPage = (props) => {
         </button>
         </article>
         <article >
-        <StaticImage src="../images/sargent.jpeg" style={styles.artistImag}></StaticImage>
+        <StaticImage src="../images/sargent.jpeg" height={300} style={styles.artistImag}></StaticImage>
         <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(

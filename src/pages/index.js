@@ -44,7 +44,6 @@ query ObjectsQuery {
       dateoffirstpageview
       dateoflastpageview
       department
-      description
       dimensions
       division
       exhibitioncount
@@ -67,20 +66,14 @@ query ObjectsQuery {
       lastupdate
       objectid
       objectnumber
-      medium
       mediacount
       markscount
       lendingpermissionlevel
       peoplecount
-      period
-      periodid
       primaryimageurl
-      provenance
       publicationcount
       rank
       relatedcount
-      signed
-      techniqueid
       title
       titlescount
       totalpageviews

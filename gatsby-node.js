@@ -16,8 +16,9 @@ exports.sourceNodes = async ({
     let requestParams = {
       apikey: apiKey,
       size: 100,
-      page: 20,
-      hasimage: 1
+      page: 1,
+      hasimage: 1,
+      century: "20th century"
     }
   
     let params = new URLSearchParams(requestParams);
@@ -45,7 +46,7 @@ console.log(responseData)
         console.log("data: " , object),
         createNode({
         ...object,
-        id: createNodeId(object.id), //[ pass a unique identifier here: [movie.id] for example
+        id: createNodeId(object.id), 
         parent: null,
         children: [],
         internal: {

@@ -9,7 +9,7 @@ return (
 <div>
   <header>
     <div >
-    <Link to="/"><StaticImage src="https://ids.lib.harvard.edu/ids/iiif/437958013/full/!800,800/0/default.jpg" height={100} alt="NFL logo"></StaticImage></Link>
+    <Link to="/"><StaticImage src="../images/HAM_logo.jpeg" height={100} alt="Havard Art Museums"></StaticImage></Link>
     </div>
     <nav className={nav}>
       <ul>
