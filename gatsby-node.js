@@ -18,8 +18,8 @@ exports.sourceNodes = async ({
       size: 100,
       page: 1,
       hasimage: 1,
-      century: "20th century",
-      keyword: "Modern Art",
+      // century: "20th century",
+      // keyword: "Modern Art",
       classification: "Paintings"
     }
   
