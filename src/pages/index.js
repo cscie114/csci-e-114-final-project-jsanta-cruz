@@ -64,11 +64,10 @@ const IndexPage = (props) => {
                 </article>
                 <aside>
                   <b>
-                    {" "}
                     <p>{item[1].title}</p>
                   </b>
-                  <p style={styles.exhibitDesc}>{item[1].description}</p>
                   <p>{item[1].begindate}</p>
+                  <p style={styles.exhibitDesc}>{item[1].description}</p>
                 </aside>
               </>
             );
