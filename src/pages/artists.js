@@ -18,6 +18,9 @@ const ArtistPage = (props) => {
       flexWrap: "wrap",
       listStyle: "none",
     },
+    img: {
+      margin: "1rem"
+    },
     artistImag: {
       width: "300px",
       height: "400px",
@@ -55,15 +58,14 @@ const ArtistPage = (props) => {
               <ul style={styles.galleryImg}>
                 {vanGogh?.map((img, i) => {
                   return (
-                    <li key={i} width={200}>
-                      <div  width={200}>
+                    <li key={i} >
+                      <div >
                         {img?.images?.map((img, i) => {
                           return (
-                            <img key={i}
+                            <img key={i} style={styles.img}
                               loading="lazy"
                               src={img?.baseimageurl}
                               width={200}
-                              height={200}
                               data-img-id={img?.imageid}
                               alt={img?.alttext}
                             />
@@ -94,15 +96,14 @@ const ArtistPage = (props) => {
               <ul style={styles.galleryImg}>
                 {kirchner?.map((img, i) => {
                   return (
-                    <li key={i} width={200}>
-                      <div width={200}>
+                    <li key={i} >
+                      <div >
                         {img?.images?.map((img, i) => {
                           return (
-                            <img key={i}
+                            <img key={i} style={styles.img}
                               loading="lazy"
                               src={img?.baseimageurl}
                               width={200}
-                              height={200}
                               data-img-id={img?.imageid}
                               alt={img?.alttext}
                             />
@@ -119,7 +120,7 @@ const ArtistPage = (props) => {
             root.render(element);
           }}
         >
-          Ernst Ludgwig Kirchner
+          Ernst Ludwig Kirchner
         </button>
         </article>
         <article >
@@ -133,15 +134,14 @@ const ArtistPage = (props) => {
               <ul style={styles.galleryImg}>
                 {sargent?.map((img, i) => {
                   return (
-                    <li key={i} width={200}>
-                      <div width={200}>
+                    <li key={i}>
+                      <div >
                         {img?.images?.map((img) => {
                           return (
-                            <img key={i}
+                            <img key={i} style={styles.img}
                               loading="lazy"
                               src={img?.baseimageurl}
                               width={200}
-                              height={200}
                               data-img-id={img?.imageid}
                               alt={img?.alttext}
                             />
