@@ -37,10 +37,18 @@ const IndexPage = (props) => {
   return (
     <>
       <Layout pageTitle="Welcome to the Harvard Art Museums">
-        <p>Just steps away from Harvard Square, the Harvard Art Museums welcome visitors from around the corner and around the world! Enjoy the many amenities that greet you upon entering the museums' expansive and beautifully restored Calderwood Courtyard on the first floor. From there, grab a coffee or snack in Jenny's Cafe or browse the many unique gifts in the museum shop before exploring over 50 galleries of art across three floors.
-
-The Harvard Art Museums are committed to creating an environment that fosters inclusion and belonging. Please join us in ensuring that every visitor feels welcomed and respected.</p>
-<h3>Upcoming Exhibitions</h3>
+        <p>
+          Just steps away from Harvard Square, the Harvard Art Museums welcome
+          visitors from around the corner and around the world! Enjoy the many
+          amenities that greet you upon entering the museums&apos; expansive and
+          beautifully restored Calderwood Courtyard on the first floor. From
+          there, grab a coffee or snack in Jenny&apos;s Cafe or browse the many
+          unique gifts in the museum shop before exploring over 50 galleries of
+          art across three floors. The Harvard Art Museums are committed to
+          creating an environment that fosters inclusion and belonging. Please
+          join us in ensuring that every visitor feels welcomed and respected.
+        </p>
+        <h3>Upcoming Exhibitions</h3>
 
         <section className={articleExt}>
           {Object.entries(exhibitData).map((item, i) => {
@@ -55,7 +63,10 @@ The Harvard Art Museums are committed to creating an environment that fosters in
                   />
                 </article>
                 <aside>
-                <b> <p>{item[1].title}</p></b>
+                  <b>
+                    {" "}
+                    <p>{item[1].title}</p>
+                  </b>
                   <p style={styles.exhibitDesc}>{item[1].description}</p>
                   <p>{item[1].begindate}</p>
                 </aside>

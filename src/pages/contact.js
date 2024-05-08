@@ -7,8 +7,8 @@ const ContactUs = () => {
         <>
         <Layout pageTitle="Contact Us">
           <div>
-            <h3>Netlify Forms - Add an Action Destination</h3>
-            <p>Exploring Netlify Forms - Form Actions</p>  
+            <h3>Contact Us</h3>
+            <p>Sign up for emails</p>  
             <form method="post" 
                     name="Data Collection Form" 
                     data-netlify="true"
