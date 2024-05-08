@@ -18,10 +18,20 @@ const ArtistPage = (props) => {
       listStyle: "none",
     },
     artistImag: {
-      width: "200px"
+      width: "300px",
+      height: "400px",
+      margin: "20px"
     },
     btnStyle: {
-      display: "block"
+      display: "block",
+      margin: "5px 20px",
+      marginLeft: "75px",
+      alignContent: "center",
+      alignItems: "center",
+      padding: "1rem",
+        color: "#fff",
+        border: "none",
+        backgroundColor: "#000"
     },
     articleStyle: {
       display: "flex",
@@ -34,7 +44,7 @@ const ArtistPage = (props) => {
       <Layout pageTitle="Josh's Final Project">
         <section style={styles.articleStyle}>
         <article >
-        <StaticImage src="../images/van-gogh.webp" height={300} style={styles.artistImag}></StaticImage>
+        <StaticImage src="../images/van-gogh.webp" style={styles.artistImag}></StaticImage>
         <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(
@@ -73,7 +83,7 @@ const ArtistPage = (props) => {
         </button>
         </article>
         <article >
-        <StaticImage src="../images/Kirchner.jpg" height={300} style={styles.artistImag}></StaticImage>
+        <StaticImage src="../images/Kirchner.jpg" style={styles.artistImag}></StaticImage>
         <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(
@@ -112,7 +122,7 @@ const ArtistPage = (props) => {
         </button>
         </article>
         <article >
-        <StaticImage src="../images/sargent.jpeg" height={300} style={styles.artistImag}></StaticImage>
+        <StaticImage src="../images/sargent.jpeg" style={styles.artistImag}></StaticImage>
         <button style={styles.btnStyle}
           onClick={() => {
             const root = createRoot(

@@ -18,6 +18,17 @@ body {
 
 }
 
+.articleExt {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+aside p {
+    max-width: 200px;
+    margin: 1rem 2rem;
+}
+
 li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-right: 1rem;
@@ -35,4 +46,20 @@ header {
     align-content: center;
     align-items: center;
     margin-right: 1rem;
+}
+
+
+@media screen and (min-width: 2100){
+    aside p {
+        max-width: 200px;
+        margin: 0rem 1rem;
+    }
+    
+}
+@media screen and (max-width: 1705){
+    aside p {
+        max-width: 97px;
+        margin: 1rem 3rem;
+    }
+    
 }
