@@ -75,7 +75,6 @@ const SliderCarousel = ({ object }) => {
       </Slider>
     </div>
   );
-
 //     return (
 // <div>
 // <Slider {...settings}>
