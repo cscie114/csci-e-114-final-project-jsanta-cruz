@@ -8,7 +8,7 @@ const ArtworkPage = ( { data } ) => {
     const art = data.allGalleryJson.nodes[0];
     return (
             <>
-              <Layout pageTitle="All Images">
+              <Layout pageTitle="Gallery">
                 <Art key={art.imageid} art={art}></Art>
               </Layout>
               <Footer />

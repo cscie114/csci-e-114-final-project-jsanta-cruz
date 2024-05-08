@@ -1,6 +1,7 @@
 import * as React from "react";
-// eslint-disable-next-line no-empty-pattern
-const Footer = ({}) => {
+import "./footer.module.css"
+
+const Footer = () => {
   return <footer>Example footer developed for CSCI E-114, Spring 2024.</footer>;
 };
 

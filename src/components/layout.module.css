@@ -1,5 +1,10 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* margin: 4rem; */
+
+}
+
+main {
     margin: 4rem;
 
 }
@@ -40,6 +45,8 @@ header {
     flex-direction: row;
     /* position: fixed; */
     width: 100%;
+    margin: 4rem;
+
 }
 
 .logo {

@@ -15,7 +15,7 @@ const handler = async function (event) {
           "headers": headers
       }
     try{
-        const response = await fetch(`https://api.harvardartmuseums.org/exhibition?apikey=${apikey}&venue=${venue}&size=8&hasimage=1&after=2024-05-08`, fetchOptions)
+        const response = await fetch(`https://api.harvardartmuseums.org/exhibition?apikey=${apikey}&venue=${venue}&size=8&hasimage=1&after=2024-03-01`, fetchOptions)
         if (!response.ok) {
             // NOT res.status >= 200 && res.status < 300
             return { statusCode: response.status, body: response.statusText }

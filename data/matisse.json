@@ -1,0 +1,1447 @@
+[
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Theodore E. Stebbins Jr. in memory of Jakob Rosenberg",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-03-14",
+            "classificationid": 21,
+            "division": "Modern and Contemporary Art",
+            "markscount": 2,
+            "publicationcount": 0,
+            "totaluniquepageviews": 81,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 119775,
+            "id": 226366,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "124",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 101,
+            "accessionyear": 1997,
+            "standardreferencenumber": null,
+            "signed": "graphite, l.r.: Henri Matisse",
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 4,
+            "primaryimageurl": null,
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:00:49-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": "There appears to be an offset of another drawing on the verso.",
+            "medium": "Graphite on cream wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Standing Female Nude",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.2702981029810298,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.20130081300813008,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.17739837398373984,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.08124661246612466,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.06444444444444444,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#fafafa",
+                    "spectrum": "#955ba5",
+                    "hue": "White",
+                    "percent": 0.056260162601626015,
+                    "css3": "#fffafa"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.05008130081300813,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.03691056910569106,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.025311653116531167,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.018590785907859078,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": "[Pierre Matisse Gallery, 1978]. Alice Adam, Chicago, 1980. [Allan Frumkin Gallery, New York, New York], sold; to Theodore Stebbins, Jr., Boston, Massachusetts, 1986, gift; to Harvard University Art Museums, 1997.\r\n",
+            "groupcount": 0,
+            "dated": "c. 1900",
+            "department": "Department of Drawings",
+            "dateend": 1905,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/226366",
+            "dateoffirstpageview": "2009-07-13",
+            "century": "19th-20th century",
+            "objectnumber": "1997.255",
+            "labeltext": null,
+            "datebegin": 1895,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 226366,
+            "techniqueid": null,
+            "dimensions": "29.8 x 23.2 cm (11 3/4 x 9 1/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/226366",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Loan from the Collection of Edouard Sandoz",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-03",
+            "classificationid": 30,
+            "division": "Modern and Contemporary Art",
+            "markscount": 1,
+            "publicationcount": 2,
+            "totaluniquepageviews": 160,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 46391,
+            "id": 226633,
+            "state": null,
+            "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "327",
+                    "worktype": "sculpture"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 231,
+            "accessionyear": null,
+            "standardreferencenumber": null,
+            "signed": "cast on verso: H.M.",
+            "classification": "Sculpture",
+            "relatedcount": 0,
+            "verificationlevel": 2,
+            "primaryimageurl": null,
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:00:49-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Bronze",
+            "lendingpermissionlevel": 0,
+            "title": "Standing Nude",
+            "accessionmethod": "Not Recorded",
+            "colors": [
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.6338935574229692,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#fafafa",
+                    "spectrum": "#955ba5",
+                    "hue": "White",
+                    "percent": 0.1580952380952381,
+                    "css3": "#fffafa"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.06336134453781513,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.04005602240896359,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.0380952380952381,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.026442577030812323,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.016246498599439777,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.008515406162464986,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.006610644257703081,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.005938375350140056,
+                    "css3": "#a9a9a9"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1906, cast 1951",
+            "department": "Department of Modern & Contemporary Art",
+            "dateend": 1906,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/226633",
+            "dateoffirstpageview": "2009-06-08",
+            "century": "20th century",
+            "objectnumber": "44.1965",
+            "labeltext": null,
+            "datebegin": 1906,
+            "culture": "French",
+            "exhibitioncount": 3,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 226633,
+            "techniqueid": null,
+            "dimensions": "with base: 51.5 x 13.5 x 18.5 cm (20 1/4 x 5 5/16 x 7 5/16 in.)\r\nwithout base: 47.6 x 12.5 x 17 cm (18 3/4 x 4 15/16 x 6 11/16 in.)\r\nbase: 4 x 13.5 x 18.5 cm (1 9/16 x 5 5/16 x 7 5/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/226633",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Alpheus Hyatt Purchasing Fund",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-03",
+            "classificationid": 30,
+            "division": "Modern and Contemporary Art",
+            "markscount": 3,
+            "publicationcount": 10,
+            "totaluniquepageviews": 965,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 90,
+            "id": 228660,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "327",
+                    "worktype": "sculpture"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 1100,
+            "accessionyear": 1953,
+            "standardreferencenumber": null,
+            "signed": "back of base: HM 10/10",
+            "classification": "Sculpture",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": null,
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:00:52-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Bronze",
+            "lendingpermissionlevel": 0,
+            "title": "The Serf",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.34439862542955324,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.31938144329896906,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.10116838487972508,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.09374570446735395,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.047353951890034364,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.030584192439862542,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.027422680412371135,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.023711340206185566,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.0111340206185567,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#000000",
+                    "spectrum": "#1eb264",
+                    "hue": "Black",
+                    "percent": 0.001099656357388316,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": "[Curt Valentin Gallery, New York, New York], sold; to Fogg Art Museum, 1953.",
+            "groupcount": 1,
+            "dated": "1900-1903",
+            "department": "Department of Modern & Contemporary Art",
+            "dateend": 1903,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/228660",
+            "dateoffirstpageview": "2009-05-12",
+            "century": "19th-20th century",
+            "objectnumber": "1953.42",
+            "labeltext": null,
+            "datebegin": 1900,
+            "culture": "French",
+            "exhibitioncount": 7,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 228660,
+            "techniqueid": null,
+            "dimensions": "92.7 x 32.4 x 34.2 cm (36 1/2 x 12 3/4 x 13 7/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/228660",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest from the Collection of Maurice Wertheim, Class of 1906",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-07",
+            "classificationid": 26,
+            "division": "Modern and Contemporary Art",
+            "markscount": 4,
+            "publicationcount": 22,
+            "totaluniquepageviews": 2398,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 81002,
+            "id": 229044,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "248",
+                    "worktype": "painting"
+                }
+            ],
+            "imagecount": 3,
+            "totalpageviews": 2873,
+            "accessionyear": 1951,
+            "standardreferencenumber": null,
+            "signed": "l.r.: Henri Matisse",
+            "classification": "Paintings",
+            "relatedcount": 2,
+            "verificationlevel": 4,
+            "primaryimageurl": null,
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:00:52-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Oil on panel",
+            "lendingpermissionlevel": 1,
+            "title": "Still Life with Apples",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.45532051282051283,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.24794871794871795,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.1476923076923077,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.06294871794871795,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#96964b",
+                    "spectrum": "#86c440",
+                    "hue": "Green",
+                    "percent": 0.02435897435897436,
+                    "css3": "#cd853f"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.022307692307692306,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afc864",
+                    "spectrum": "#9ecb3b",
+                    "hue": "Green",
+                    "percent": 0.011538461538461539,
+                    "css3": "#bdb76b"
+                },
+                {
+                    "color": "#96af64",
+                    "spectrum": "#89c540",
+                    "hue": "Green",
+                    "percent": 0.011217948717948718,
+                    "css3": "#bdb76b"
+                },
+                {
+                    "color": "#af7d4b",
+                    "spectrum": "#e9715f",
+                    "hue": "Yellow",
+                    "percent": 0.008974358974358974,
+                    "css3": "#cd853f"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.00467948717948718,
+                    "css3": "#808080"
+                }
+            ],
+            "provenance": "Paul Guillaume, Paris, France, 1925, 1933. Maurice Wertheim, New York, NY (1937-1950); Bequest to Fogg Art Museum, 1951.\r\n\r\n\r\nNOTE: Paul Guillaume certainly owned the work by 1930 as it is visible in a photograph of his dining room dated c. 1930, see Georgel 2006.",
+            "groupcount": 0,
+            "dated": "1916",
+            "department": "Department of Paintings, Sculpture & Decorative Arts",
+            "dateend": 1916,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/229044",
+            "dateoffirstpageview": "2009-05-14",
+            "century": "20th century",
+            "objectnumber": "1951.51",
+            "labeltext": "This still life attests to Matisse’s admiration of Cézanne, and particularly of his manipulation of spatial relationships. It contains many of the objects typically found in Cézanne’s still lifes, and replicates his signature rupture of planar space and presentation of objects that seem unmoored and inconsistently dimensional. Recent technical examination reveals that Matisse adjusted and changed the main color oppositions of background and tabletop, eventually choosing gray and blue, as he did frequently during this period of his career. Evidence of his previous experimentations with color, especially a reddish-brown hue, is visible in the valleys of the large drying cracks that can be seen throughout. Many of Matisse’s paintings from this era contain these cracks, which occurred when he did not wait for a layer of paint to dry completely before painting over it.",
+            "datebegin": 1916,
+            "culture": "French",
+            "exhibitioncount": 21,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 229044,
+            "techniqueid": null,
+            "dimensions": "32.8 x 41.1 cm (12 15/16 x 16 3/16 in.)\r\nframed: 52 x 60 x 8.9 cm (20 1/2 x 23 5/8 x 3 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/229044",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Bequest from the Collection of Maurice Wertheim, Class of 1906",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-05-07",
+            "classificationid": 26,
+            "division": "Modern and Contemporary Art",
+            "markscount": 11,
+            "publicationcount": 15,
+            "totaluniquepageviews": 2975,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 10,
+            "rank": 81003,
+            "id": 229045,
+            "state": null,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "248",
+                    "worktype": "painting"
+                }
+            ],
+            "imagecount": 4,
+            "totalpageviews": 3763,
+            "accessionyear": 1951,
+            "standardreferencenumber": null,
+            "signed": "l. r.: Henri Matisse",
+            "classification": "Paintings",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": null,
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:00:52-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Oil on canvas",
+            "lendingpermissionlevel": 1,
+            "title": "Geraniums",
+            "accessionmethod": "Bequest",
+            "colors": [
+                {
+                    "color": "#644b32",
+                    "spectrum": "#59ba4a",
+                    "hue": "Brown",
+                    "percent": 0.2888709677419355,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#96afaf",
+                    "spectrum": "#7b65ad",
+                    "hue": "Blue",
+                    "percent": 0.15774193548387097,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#afc8c8",
+                    "spectrum": "#8761aa",
+                    "hue": "Green",
+                    "percent": 0.12913978494623657,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#324b32",
+                    "spectrum": "#2eb45d",
+                    "hue": "Green",
+                    "percent": 0.07962365591397849,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#7d6432",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.07913978494623657,
+                    "css3": "#a0522d"
+                },
+                {
+                    "color": "#4b644b",
+                    "spectrum": "#3db657",
+                    "hue": "Green",
+                    "percent": 0.07263440860215054,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.03790322580645161,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.032419354838709676,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.030698924731182797,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.028440860215053765,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": "Private Collector, Paris, Said to have been bought directly from artist, 1918.\r\nMaurice Wertheim, Purchased from the Valentine Gallery, 1937, Bequest to Fogg Art Museum, 1951.\r\n",
+            "groupcount": 0,
+            "dated": "1910",
+            "department": "Department of Paintings, Sculpture & Decorative Arts",
+            "dateend": 1910,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/229045",
+            "dateoffirstpageview": "2009-05-17",
+            "century": "20th century",
+            "objectnumber": "1951.52",
+            "labeltext": "Potted red geraniums appear frequently in Matisse’s paintings from the first decade of the twentieth century. This scene plays with the concept of mimetic representation by juxtaposing real flowers with printed ones in the wallpaper behind, and painted ones in the plate under the pot. Matisse further complicates his proposition by including four dark-blue petals in the foreground, which appear to be from an entirely different plant. He also destabilizes the entire scene by rendering the sloping foreground as flatly as the wallpapered wall. Just as he had done in the other still life hanging nearby, Matisse changed the main colors of the background as he worked. Initially, the top half of the composition was predominantly pink and the bottom was green, but after exploring other combinations, Matisse, a master colorist, repainted them in blue and ochre.",
+            "datebegin": 1910,
+            "culture": "French",
+            "exhibitioncount": 17,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 229045,
+            "techniqueid": null,
+            "dimensions": "61.4 x 50.4 cm (24 3/16 x 19 13/16 in.)\r\nframed: 79.4 x 68.4 x 7 cm (31 1/4 x 26 15/16 x 2 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/229045",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Howard J. Sachs in memory of Howard J. Sachs",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-24",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 73,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 8,
+            "rank": 90167,
+            "id": 233390,
+            "state": null,
+            "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "44",
+                    "worktype": "book"
+                }
+            ],
+            "imagecount": 3,
+            "totalpageviews": 89,
+            "accessionyear": 1971,
+            "standardreferencenumber": "D. 6",
+            "signed": "Back page in pencil: Henri Matisse",
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 2,
+            "primaryimageurl": null,
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:00:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Softground etching",
+            "edition": null,
+            "description": null,
+            "medium": "Six soft-ground etchings and copies of preliminary sketches on colored paper in bound volume",
+            "lendingpermissionlevel": 0,
+            "title": "Ulysses by James Joyce, New York:  Limited Editions Club, 1935",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.48598870056497173,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#e1c8c8",
+                    "spectrum": "#c15689",
+                    "hue": "Orange",
+                    "percent": 0.37966101694915255,
+                    "css3": "#d8bfd8"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.049209039548022596,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.03830508474576271,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.03604519774011299,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.007627118644067797,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.0022598870056497176,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.000903954802259887,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "1935",
+            "department": "Department of Prints",
+            "dateend": 1935,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/233390",
+            "dateoffirstpageview": "2010-05-04",
+            "century": "20th century",
+            "objectnumber": "1971.51",
+            "labeltext": null,
+            "datebegin": 1935,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 233390,
+            "techniqueid": 585,
+            "dimensions": "30.3 x 23.6 x 3.6 cm (11 15/16 x 9 5/16 x 1 7/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/233390",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Mrs. Howard J. Sachs in memory of Howard J. Sachs",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-10",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 1,
+            "totaluniquepageviews": 64,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 2,
+            "rank": 90161,
+            "id": 233391,
+            "state": null,
+            "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "23",
+                    "worktype": "artist's book"
+                }
+            ],
+            "imagecount": 57,
+            "totalpageviews": 74,
+            "accessionyear": 1971,
+            "standardreferencenumber": "D. 28",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 2,
+            "primaryimageurl": null,
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:00:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Lithograph",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Charles d'Orléans, Poèmes, Paris:  Tériade, 1950",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.8701557632398754,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.1298442367601246,
+                    "css3": "#a9a9a9"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "20th century",
+            "department": "Department of Prints",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/233391",
+            "dateoffirstpageview": "2010-05-04",
+            "century": "20th century",
+            "objectnumber": "1971.45",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 233391,
+            "techniqueid": 136,
+            "dimensions": null,
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/233391",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Loan from the Collection of Edouard Sandoz",
+            "accesslevel": 1,
+            "dateoflastpageview": "2023-03-01",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 1,
+            "publicationcount": 0,
+            "totaluniquepageviews": 108,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 1,
+            "rank": 45394,
+            "id": 237777,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 137,
+            "accessionyear": null,
+            "standardreferencenumber": null,
+            "signed": "l.r. in graphite: Henri Matisse",
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": null,
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:01:02-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": "Etching with chine colle on off-white wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Seated Female Nude",
+            "accessionmethod": "Not Recorded",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 1,
+                    "css3": "#dcdcdc"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "20th century",
+            "department": "Department of Prints",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/237777",
+            "dateoffirstpageview": "2009-06-04",
+            "century": "20th century",
+            "objectnumber": "27.1965",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 237777,
+            "techniqueid": 116,
+            "dimensions": "38.2 x 28.4 cm (15 1/16 x 11 3/16 in.)\r\nplate: 25 x 10.4 cm (9 13/16 x 4 1/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/237777",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Loan from the Collection of Edouard Sandoz",
+            "accesslevel": 1,
+            "dateoflastpageview": "2024-04-21",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 130,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 7,
+            "rank": 45540,
+            "id": 237940,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 166,
+            "accessionyear": null,
+            "standardreferencenumber": null,
+            "signed": "l.r. in pencil: Henri Matisse",
+            "classification": "Prints",
+            "relatedcount": 1,
+            "verificationlevel": 3,
+            "primaryimageurl": null,
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:01:03-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Lithograph",
+            "edition": null,
+            "description": null,
+            "medium": "Lithograph on cream wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Ballet Dancer",
+            "accessionmethod": "Not Recorded",
+            "colors": [
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.5250340136054422,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.1334013605442177,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.12857142857142856,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.1264625850340136,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.04469387755102041,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.032857142857142856,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.008979591836734694,
+                    "css3": "#556b2f"
+                }
+            ],
+            "provenance": null,
+            "groupcount": 0,
+            "dated": "20th century",
+            "department": "Department of Prints",
+            "dateend": 0,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/237940",
+            "dateoffirstpageview": "2009-06-04",
+            "century": "20th century",
+            "objectnumber": "28.1965",
+            "labeltext": null,
+            "datebegin": 0,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 237940,
+            "techniqueid": 136,
+            "dimensions": "50 x 32.5 cm (19 11/16 x 12 13/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/237940",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, George R. Nutter Fund, The Horace Swope Fund",
+            "accesslevel": 1,
+            "dateoflastpageview": "2023-03-02",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 3,
+            "publicationcount": 0,
+            "totaluniquepageviews": 30,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 7,
+            "rank": 223006,
+            "id": 262010,
+            "state": null,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [],
+            "worktypes": [
+                {
+                    "worktypeid": "285",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 35,
+            "accessionyear": 1942,
+            "standardreferencenumber": "D.-M. 409",
+            "signed": "l.l. in black ink: HM  [on stone]",
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": null,
+            "titlescount": 2,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2024-05-08T05:01:31-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Lithograph",
+            "edition": null,
+            "description": null,
+            "medium": "Black ink on cream wove paper",
+            "lendingpermissionlevel": 0,
+            "title": "Nude with Partial View of Face",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.7034343434343434,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#e1c896",
+                    "spectrum": "#ed765a",
+                    "hue": "Yellow",
+                    "percent": 0.21225589225589225,
+                    "css3": "#deb887"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.030303030303030304,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.027474747474747475,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.019865319865319864,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.005993265993265993,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#644b32",
+                    "spectrum": "#59ba4a",
+                    "hue": "Brown",
+                    "percent": 0.0006734006734006734,
+                    "css3": "#556b2f"
+                }
+            ],
+            "provenance": "Jean Goriany, sold; to Fogg Art Museum, February 25, 1942.",
+            "groupcount": 0,
+            "dated": "1913",
+            "department": "Department of Prints",
+            "dateend": 1913,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/262010",
+            "dateoffirstpageview": "2009-06-24",
+            "century": "20th century",
+            "objectnumber": "M10118",
+            "labeltext": null,
+            "datebegin": 1913,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 1,
+            "mediacount": 0,
+            "objectid": 262010,
+            "techniqueid": 136,
+            "dimensions": "50.2 x 32.9 cm (19 3/4 x 12 15/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/262010",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        }
+    ]

@@ -1,36 +1,41 @@
-import * as React from "react"
-import {objectContain} from "../components/slideshow.module.css"
-
+import * as React from "react";
+import { objectContain } from "../components/slideshow.module.css";
 
 const Art = ({ art }) => {
-    const styles = {
-        galleryImg: {
-          display: "flex",
-          flexDirection: "row",
-          flexWrap: "wrap",
-          listStyle: "none",    
-        },
-      };
-    return (
-      <div>
-          <ul style={styles.galleryImg}>
-              <li width={200}>
-                <div width={200}>
-                  <img style={styles.imgList}
-                  className={objectContain}
-                    loading="lazy"
-                    src={art?.baseimageurl}
-                    width={200} height={200}
-                    alt={art?.alttext}
-                  />
-                  <p width={200}>{art?.caption}</p>
-                  <p width={200}>{art?.alttext}</p>
-                </div>
-              </li>
-        </ul>
-      </div>
-    );
+  const styles = {
+    galleryImg: {
+      display: "flex",
+      flexDirection: "row",
+      flexWrap: "wrap",
+      listStyle: "none",
+    },
   };
-  
-  
-  export default Art;
+  return (
+    <section style={styles.galleryImg}>
+      <article>
+        <img
+          style={styles.imgList}
+          className={objectContain}
+          loading="lazy"
+          src={art?.baseimageurl}
+          width={300}
+          alt={art?.alttext}
+        />
+        <p>{art?.caption}</p>
+        <p>{art?.alttext}</p>
+      </article>
+      <article>
+        <ul>
+          <li>Image Id: {art?.imageid}</li>
+          <li>Date: {art?.date}</li>
+          <li>Dimensions: {art?.height} X {art?.width}
+          </li>
+          <li>Rendition No.: {art?.renditionnumber} </li>
+          <li>Copyright: {art?.copyright}</li>
+        </ul>
+      </article>
+    </section>
+  );
+};
+
+export default Art;

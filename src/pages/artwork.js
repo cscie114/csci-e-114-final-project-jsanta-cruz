@@ -20,7 +20,7 @@ const GalleryPage = (props) => {
 
   return (
     <>
-      <Layout pageTitle="All Images">
+      <Layout pageTitle="Harvard Art Museum Gallery">
         <ul style={styles.galleryImg}>
           {artwork?.map((art, i) => {
             return (
@@ -34,8 +34,8 @@ const GalleryPage = (props) => {
                     width={200} height={200}
                     alt={art?.alttext}
                   />
-                  <p width={200}>{art?.caption}</p>
-                  <p width={200}>{art?.alttext}</p>
+                  {/* <p width={200}>{art?.caption}</p>
+                  <p width={200}>{art?.alttext}</p> */}
                   </Link>
                 </div>
               </li>

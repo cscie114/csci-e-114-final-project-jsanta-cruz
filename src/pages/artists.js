@@ -2,6 +2,7 @@ import * as React from "react";
 import { graphql } from "gatsby";
 import { createRoot } from "react-dom/client";
 import Layout from "../components/Layout";
+import Footer from "../components/footer";
 import { StaticImage } from "gatsby-plugin-image";
 
 const ArtistPage = (props) => {
@@ -41,7 +42,7 @@ const ArtistPage = (props) => {
   };
   return (
     <>
-      <Layout pageTitle="Josh's Final Project">
+      <Layout pageTitle="Featured Artists">
         <section style={styles.articleStyle}>
         <article >
         <StaticImage src="../images/van-gogh.webp" style={styles.artistImag}></StaticImage>
@@ -162,6 +163,7 @@ const ArtistPage = (props) => {
         </article>
         </section>
       </Layout>
+      <Footer/>
     </>
   );
 };

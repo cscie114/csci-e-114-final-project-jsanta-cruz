@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
-import { articleExt } from "../components/layout.module.css"
+import { articleExt } from "../components/layout.module.css";
 import Footer from "../components/footer";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -31,12 +31,17 @@ const IndexPage = (props) => {
       // whiteSpace: "nowrap",
       overflow: "hidden",
       textOverflow: "ellipsis",
-      maxHeight: "200px"
+      maxHeight: "200px",
     },
   };
   return (
     <>
-      <Layout pageTitle="Upcoming Exhibitions">
+      <Layout pageTitle="Welcome to the Harvard Art Museums">
+        <p>Just steps away from Harvard Square, the Harvard Art Museums welcome visitors from around the corner and around the world! Enjoy the many amenities that greet you upon entering the museums' expansive and beautifully restored Calderwood Courtyard on the first floor. From there, grab a coffee or snack in Jenny's Cafe or browse the many unique gifts in the museum shop before exploring over 50 galleries of art across three floors.
+
+The Harvard Art Museums are committed to creating an environment that fosters inclusion and belonging. Please join us in ensuring that every visitor feels welcomed and respected.</p>
+<h3>Upcoming Exhibitions</h3>
+
         <section className={articleExt}>
           {Object.entries(exhibitData).map((item, i) => {
             return (
@@ -50,17 +55,14 @@ const IndexPage = (props) => {
                   />
                 </article>
                 <aside>
+                <b> <p>{item[1].title}</p></b>
                   <p style={styles.exhibitDesc}>{item[1].description}</p>
-                  <p >{item[1].begindate}</p>
-
+                  <p>{item[1].begindate}</p>
                 </aside>
               </>
             );
           })}
         </section>
-        <h3>Hello World</h3>
-
-
         <SliderCarousel key={object?.id} object={object}></SliderCarousel>
       </Layout>
       <Footer />
